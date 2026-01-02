@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Nephroepidemiology Utrecht"
+  navbar:
+    logo: images/creat_cafe.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: output.qmd
+        text: Output
+    right:
+      - href: journals.qmd
+        text: Journals
+      - href: team.qmd
+        text: Meet the team
+
+format:
+  html:
+    theme: 
+      light: [simplex, theme.scss]
+      dark: [simplex, theme_dark.scss]
+    respect-user-color-scheme: true
+    toc: true
+
+
+
