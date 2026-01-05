@@ -2,6 +2,8 @@ project:
   type: website
 
 website:
+  favicon: creat_cafe.png
+
   title: "NE Utrecht"
   navbar:
     logo: images/creat_cafe.png

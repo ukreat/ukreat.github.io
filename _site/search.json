@@ -18,11 +18,11 @@
     ]
   },
   {
-    "objectID": "team.html",
-    "href": "team.html",
+    "objectID": "projects.html",
+    "href": "projects.html",
     "title": "NE Utrecht",
     "section": "",
-    "text": "We are a diverse group of researchers, who all bring our own specialties and skills that complement the team.\n\nPrincipal investigator\n\n\nRobin W. M. Vernooij, PhD\nORCID: 0000-0001-5734-4566\n\nRobin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin’s academic work is strengthened by ample experience in registry research and evidence synthesis.\n\n\n\n\nPostdocs\n\n\nRoemer J. Janse, PhD\nORCID: 0000-0003-0059-872X\n\nRoemer is a clinical epidemiologist in the team, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.\n\n\n\n\nPhD students\n\n\nCindy P. Porras, MD\nORCID: 0000-0001-7692-9164\n\nJulia M.T. Colombijn\nORCID: 0000-0002-9022-5937\n\n\n\n\nDenise M.J. Veltkamp, MD\nORCID: 0000-0001-9914-7827\n\nSanne Roos, MD\nORCID: 0009-0004-7225-8542\n\n\n\n\nEllis Oortwijn, MSc\nORCID: 0009-0004-5917-8716\n\n\n\n\n\n\n Back to top"
+    "text": "Back to top"
   },
   {
     "objectID": "contact.html",
@@ -30,6 +30,13 @@
     "title": "NE Utrecht",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "NE Utrecht",
+    "section": "",
+    "text": "We are a diverse group of researchers, who all bring our own specialties and skills that complement the team.\n\nPrincipal investigator\n\n\nRobin W. M. Vernooij, PhD\nORCID: 0000-0001-5734-4566\n\nRobin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin’s academic work is strengthened by ample experience in registry research and evidence synthesis.\n\n\n\n\nPostdocs\n\n\nRoemer J. Janse, PhD\nORCID: 0000-0003-0059-872X\n\nRoemer is a clinical epidemiologist in the team, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.\n\n\n\n\nPhD students\n\n\nCindy P. Porras, MD\nORCID: 0000-0001-7692-9164\n\nJulia M.T. Colombijn\nORCID: 0000-0002-9022-5937\n\n\n\n\nDenise M.J. Veltkamp, MD\nORCID: 0000-0001-9914-7827\n\nSanne Roos, MD\nORCID: 0009-0004-7225-8542\n\n\n\n\nEllis Oortwijn, MSc\nORCID: 0009-0004-5917-8716\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",
@@ -48,12 +55,5 @@
       "Resources",
       "resources.html"
     ]
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "NE Utrecht",
-    "section": "",
-    "text": "Back to top"
   }
 ]
