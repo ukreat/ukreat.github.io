@@ -1,20 +1,34 @@
 [
   {
-    "objectID": "output.html",
-    "href": "output.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "About this site\n\n\n\n Back to top"
+    "text": "Back to top",
+    "crumbs": [
+      "Blog"
+    ]
   },
   {
-    "objectID": "journals.html",
-    "href": "journals.html",
+    "objectID": "resources.html",
+    "href": "resources.html",
     "title": "NE Utrecht",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Resources",
-      "journals.html"
+      "resources.html"
+    ]
+  },
+  {
+    "objectID": "laymen.html",
+    "href": "laymen.html",
+    "title": "Voor niet-onderzoekers",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Blog",
+      "Voor niet-onderzoekers"
     ]
   },
   {
@@ -46,35 +60,21 @@
     "text": "Hi! Welcome to the homepage of the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.\n\nOur team is diverse in its background and specialties, but shares the same mission: improving clinical care and outcomes for individuals with chronic kidney disease, those on dialysis, and kidney transplant recipients, using epidemiological methods and big data.\nTo this end, we use advanced epidemiological and data scientific methods, applied to a wide range of large and granular data sources, including randomised controlled trials, cohort studies, electronic health records, and registries.\nWe are located at the UMC Utrecht. Our team is embedded in the Department of Nephrology and Hypertension and in Utrecht Patient Oriented Database (UPOD) of the Central Diagnostics Laboratory.\n\n\n\n\n\nUMC Utrecht\n\n\nThis collaboration gives us access both to direct clinical involvement and to the high-quality research infrastructure of UPOD.\nWant to know more? Check out our currently running projects and previous output.\n\n\n\n Back to top"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
+    "objectID": "journals.html",
+    "href": "journals.html",
     "title": "NE Utrecht",
     "section": "",
     "text": "Back to top",
     "crumbs": [
       "Resources",
-      "resources.html"
+      "journals.html"
     ]
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "NE Utrecht",
+    "objectID": "output.html",
+    "href": "output.html",
+    "title": "About",
     "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Blog"
-    ]
-  },
-  {
-    "objectID": "laymen.html",
-    "href": "laymen.html",
-    "title": "Voor niet-onderzoekers",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Blog",
-      "Voor niet-onderzoekers"
-    ]
+    "text": "About this site\n\n\n\n Back to top"
   }
 ]
