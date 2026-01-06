@@ -55,5 +55,26 @@
       "Resources",
       "resources.html"
     ]
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "NE Utrecht",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Blog"
+    ]
+  },
+  {
+    "objectID": "laymen.html",
+    "href": "laymen.html",
+    "title": "Voor niet-onderzoekers",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Blog",
+      "Voor niet-onderzoekers"
+    ]
   }
 ]

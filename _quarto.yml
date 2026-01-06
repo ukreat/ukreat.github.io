@@ -14,6 +14,8 @@ website:
         text: Projects
       - href: output.qmd
         text: Output
+      - href: blog.qmd
+        text: Blog
     right:
       - href: resources.qmd
         text: Resources
@@ -27,6 +29,11 @@ website:
       contents:
         - resources.qmd
         - journals.qmd
+    - title: "Blog"
+      style: "docked"
+      contents:
+        - blog.qmd
+        - laymen.qmd
 
   announcement: 
     icon: info-circle
