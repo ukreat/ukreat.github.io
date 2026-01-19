@@ -2,11 +2,12 @@ project:
   type: website
 
 website:
-  favicon: creat_cafe.png
+  favicon: images/logo.png
 
   title: "NE Utrecht"
   navbar:
-    logo: images/creat_cafe.png
+    pinned: true
+    logo: images/logo.png
     left:
       - href: team.qmd
         text: Meet the team
@@ -14,7 +15,7 @@ website:
         text: Projects
       - href: output.qmd
         text: Output
-      - href: blog.qmd
+      - href: blog/index.qmd
         text: Blog
     right:
       - href: resources.qmd
@@ -29,11 +30,6 @@ website:
       contents:
         - resources.qmd
         - journals.qmd
-    - title: "Blog"
-      style: "docked"
-      contents:
-        - blog.qmd
-        - laymen.qmd
 
   announcement: 
     icon: info-circle

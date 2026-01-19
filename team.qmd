@@ -1,63 +1,106 @@
+---
+title: "Team members" 
+---
+
 We are a diverse group of researchers, who all bring our own specialties and skills that complement the team.
 
-### Principal investigator
-:::: {.columns}
-::: {.column width ="50%"}
-[**Robin W. M. Vernooij**, PhD]{style="font-size: 120%;"}\
-[*ORCID: [0000-0001-5734-4566](https://orcid.org/0000-0001-5734-4566)*]{style="font-size: 90%;"}
+:::: columns
+::: {.column width="20%"}
+![](headshots/rwmv.jpeg){.lightbox width=90%}
+:::
 
-![](headshots/rwmv.jpeg){.lightbox width=60%}
+::: {.column width="80%"}
+[**Robin W. M. Vernooij**]{style="font-size: 120%;"}\
+[*ORCID: [0000-0001-5734-4566](https://orcid.org/0000-0001-5734-4566)*]{style="font-size: 90%;"}
 
 [Robin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin's academic work is strengthened by ample experience in registry research and evidence synthesis.]{style="font-size: 80%;"}
 :::
 ::::
 
-### Postdocs
-:::: {.columns}
-::: {.column width ="50%"}
-[**Roemer J. Janse**, PhD]{style="font-size: 120%;"}\
+:::: columns
+::: {.column width="20%"}
+![](headshots/rjj.jpg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
+[**Roemer J. Janse**]{style="font-size: 120%;"}\
 [*ORCID: [0000-0003-0059-872X](https://orcid.org/0000-0003-0059-872X)*]{style="font-size: 90%;"}
 
-![](headshots/rjj.jpg){.lightbox width=60%}
-
-[Roemer is a clinical epidemiologist in the team, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.]{style="font-size: 80%;"}
+[Roemer is a clinical epidemiologist, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.]{style="font-size: 80%;"}
 :::
 ::::
 
-### PhD students
-:::: {.columns}
-::: {.column width ="50%"}
-[**Cindy P. Porras**, MD]{style="font-size: 120%;"}\
-[*ORCID: [0000-0001-7692-9164](https://orcid.org/0000-0001-7692-9164)*]{style="font-size: 90%;"}
-
+:::: columns
+::: {.column width="20%"}
+![](headshots/cpp.jpg){.lightbox width=90%}
 :::
 
-::: {.column width ="50%"}
+::: {.column width="80%"}
+[**Cindy P. Porras**]{style="font-size: 120%;"}\
+[*ORCID: [0000-0001-7692-9164](https://orcid.org/0000-0001-7692-9164)*]{style="font-size: 90%;"}
+
+[Cindy is a medical doctor and clinical epidemiologist, applying her knowledge to the cardiorenal axis. She performed multiple studies on sex differences in peripheral arterial disease and is currently investigating heart failure and its interplay with kidney disease. Her thesis also has a methodological component, with a specific focus on prediction modelling.]{style="font-size: 80%;"}
+:::
+::::
+
+:::: columns
+::: {.column width="20%"}
+![](headshots/jmtc.jpg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
 [**Julia M.T. Colombijn**]{style="font-size: 120%;"}\
 [*ORCID: [0000-0002-9022-5937](https://orcid.org/0000-0002-9022-5937)*]{style="font-size: 90%;"}
 
+[Julia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.]{style="font-size: 80%;"}
 :::
 ::::
 
-:::: {.columns}
-::: {.column width ="50%"}
-[**Denise M.J. Veltkamp**, MD]{style="font-size: 120%;"}\
+:::: columns
+::: {.column width="20%"}
+![](headshots/dmjv.jpg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
+[**Denise M.J. Veltkamp**]{style="font-size: 120%;"}\
 [*ORCID: [0000-0001-9914-7827](https://orcid.org/0000-0001-9914-7827)*]{style="font-size: 90%;"}
 
+[Denise is a medical doctor whose research focuses on long-term outcomes after acute kidney injury. To get a broad overview, she has performed multiple meta-analyses and clustering studies, and worked on developing prediction models to get personalised insights in these long-term outcomes. Additionally, she has previously done research on the patient perspective in kidney transplantation.]{style="font-size: 80%;"}
+:::
+::::
+
+:::: columns
+::: {.column width="20%"}
+![](){.lightbox width=90%}
 :::
 
-::: {.column width ="50%"}
-[**Sanne Roos**, MD]{style="font-size: 120%;"}\
+::: {.column width="80%"}
+[**Sanne Roos**]{style="font-size: 120%;"}\
 [*ORCID: [0009-0004-7225-8542](https://orcid.org/0009-0004-7225-8542)*]{style="font-size: 90%;"}
 
+[Sanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis.]{style="font-size: 80%;"}
 :::
 ::::
 
-:::: {.columns}
-::: {.column width ="50%"}
-[**Ellis Oortwijn**, MSc]{style="font-size: 120%;"}\
+:::: columns
+::: {.column width="20%"}
+![](headshots/eo.jpg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
+[**Ellis Oortwijn**]{style="font-size: 120%;"}\
 [*ORCID: [0009-0004-5917-8716](https://orcid.org/0009-0004-5917-8716)*]{style="font-size: 90%;"}
 
+[Ellis is a PhD student with a background in cardiovascular health and disease. Bringing with her experience in both fundamental and clinical research, she now focuses on the utilisation, safety, and effectiveness of cardiovascular risk management in individuals with chronic kidney disease.]{style="font-size: 80%;"}
 :::
-
 ::::
+
+
+
+
+
+
+
+
+
+

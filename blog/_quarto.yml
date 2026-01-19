@@ -1,0 +1,12 @@
+project:
+  type: website
+
+website:
+  navbar: false
+
+format:
+  html:
+    css: blog.css
+
+
+

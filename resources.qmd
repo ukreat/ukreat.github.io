@@ -1,0 +1,10 @@
+---
+title: "Additional resources"
+---
+
+This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.
+
+||
+|-------|-----|
+| [Nefrodata](https://ivisualz.sivz.nl/ivisualz/chartFlash/charts) | Interactive overview of Dutch CKD and kidney failure population |
+| [Nieratlas](https://nieratlas.nl/) | Overview of healthcare and related costs for individuals with kidney disease |

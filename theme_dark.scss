@@ -13,3 +13,24 @@ $code-block-bg-alpha: -.9;
 // Navbar
 $navbar-bg: $primary;
 $navbar-fg: $secondary;
+
+// Tabsets
+.nav-link {
+    color: $secondary !important;
+}
+
+.nav-link.active {
+    color: $primary !important;
+}
+
+/*
+// TOC
+.sidebar nav[role=doc-toc] ul > li > a.nav-link.active {
+    border-left: 1px solid $primary !important;
+    color: $primary !important;
+}
+*/
+
+.menu-text {
+    color: $secondary !important;
+}
