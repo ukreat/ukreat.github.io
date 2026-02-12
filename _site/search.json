@@ -9,12 +9,11 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Additional resources",
+    "title": "Resources",
     "section": "",
-    "text": "This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.\n\n\n\nNefrodata\nInteractive overview of Dutch CKD and kidney failure population\n\n\nNieratlas\nOverview of healthcare and related costs for individuals with kidney disease\n\n\n\n\n\n\n Back to top",
+    "text": "This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.\n\nKidneys\n\n\n\nNefrodata\nInteractive overview of Dutch CKD and kidney failure population\n\n\nNieratlas\nOverview of healthcare and related costs for individuals with kidney disease\n\n\n\n\n\nProgramming\n\n\n\nR Graph Gallery\nHow to make (almost) any graph in base R and ggplot2\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Resources",
-      "Additional resources"
+      "Resources"
     ]
   },
   {
@@ -106,7 +105,7 @@
     "href": "journals.html",
     "title": "Kidney journals",
     "section": "",
-    "text": "Journal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\n\n\n\n\nKidney Int\nUSD 3500\nISN (20%)\n100%\nUSD 165 / page\n4000\n\n\nKidney Int Rep\nUSD 2800\nISN (20%)\n100%\nNone\n4000\n\n\nNephrol Dial Transplant\nEUR 3613\nERA (25%)\n100%\nNone\n3500a\n\n\nClin Kidney J\nEUR 3069\nERA (33%)\n0%\nNone\n3000\n\n\n\na Including abstract\n\n\n\n Back to top",
+    "text": "Last updated: 2026-02-11\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\nKidney Int\nUSD 3500\nISN (20%)\n100%\nUSD 165/page\n4000\nURL\n\n\nKidney Int Rep\nUSD 2800\nISN (20%)\n100%\nNone\n4000\n\n\n\nNephrol Dial Transplant\nEUR 3613\nERA (25%)\n100%\nNone\n3500a\n\n\n\nClin Kidney J\nEUR 3069\nERA (33%)\n0%\nNone\n3000\n\n\n\nAm J Kidney Dis\nUSD 3200\nNKF (20%)\n100%\nUSD 75/page for colour figures\n3500\n\n\n\nKidney Med\nUSD 2400\nNKF (20%)\n100%\nNone\n3500\n\n\n\nJ Am Soc Nephrol\nUSD 5250\nASN (22%)\n0%\nUSD 77/page/colour page\n3500\n\n\n\nClin J Am Soc Nephrol\nUSD 5250\nASN (22%)\n0%\nUSD 77/page/colour page\n3500\n\n\n\nKidney360\nUSD 1800\nASN (42%)\n0%\nNone\n3500\n\n\n\nJ Nephrol\nEUR 3490\nSIN (20%)\n100%\nNone\n3000\n\n\n\nAm J Nephrol\nEUR 3790\nNone\n100%\nEUR 540/page after 20k characters\n5000\n\n\n\nBMC Nephrol\nEUR 2790\nNone\n0%\nNone\nNone\n\n\n\n\na Including abstract\n\n\n\n Back to top",
     "crumbs": [
       "Resources",
       "Kidney journals"
@@ -118,5 +117,27 @@
     "title": "NE Utrecht",
     "section": "",
     "text": "Back to top"
+  },
+  {
+    "objectID": "k-journals.html",
+    "href": "k-journals.html",
+    "title": "Kidney journals",
+    "section": "",
+    "text": "Last updated: 2026-02-11\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\nKidney Int\nUSD 3500\nISN (20%)\n100%\nUSD 165/page\n4000\nURL\n\n\nKidney Int Rep\nUSD 2800\nISN (20%)\n100%\nNone\n4000\nURL\n\n\nNephrol Dial Transplant\nEUR 3613\nERA (25%)\n100%\nNone\n3500a\nURL\n\n\nClin Kidney J\nEUR 3069\nERA (33%)\n0%\nNone\n3000\nURL\n\n\nAm J Kidney Dis\nUSD 3200\nNKF (20%)\n100%\nUSD 75/page for colour figures\n3500\nURL\n\n\nKidney Med\nUSD 2400\nNKF (20%)\n100%\nNone\n3500\nURL\n\n\nJ Am Soc Nephrol\nUSD 5250\nASN (22%)\n0%\nUSD 77/page USD 550/colour page\n3500\nURL\n\n\nClin J Am Soc Nephrol\nUSD 5250\nASN (22%)\n0%\nUSD 77/page USD 550/colour page\n3500\nURL\n\n\nKidney360\nUSD 1800\nASN (42%)\n0%\nNone\n3500\nURL\n\n\nJ Nephrol\nEUR 3490\nSIN (20%)\n100%\nNone\n3000\nURL\n\n\nAm J Nephrol\nEUR 3790\nNone\n100%\nEUR 540/page after 20k characters\n5000\nURL\n\n\nBMC Nephrol\nEUR 2790\nNone\n0%\nNone\nNone\nURL\n\n\n\na Including abstract\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources",
+      "Kidney journals"
+    ]
+  },
+  {
+    "objectID": "g-journals.html",
+    "href": "g-journals.html",
+    "title": "General journals",
+    "section": "",
+    "text": "Last updated: 2026-02-11\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources",
+      "General journals"
+    ]
   }
 ]

@@ -1,0 +1,12 @@
+---
+title: "Diabetes journals"
+---
+
+*Last updated: [x]*
+
+|Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
+|-------------------------|--------|-------------------|---------------|---------------|---------------|----|
+
+
+
+Institutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available [here](www.openaccess.nl/nl/publiceren/uitgeversdeals) (Dutch).

@@ -29,7 +29,11 @@ website:
       style: "docked"
       contents:
         - resources.qmd
-        - journals.qmd
+        - k-journals.qmd
+        - g-journals.qmd
+        - c-journals.qmd
+        - d-journals.qmd
+        - e-journals.qmd
 
   announcement: 
     icon: info-circle

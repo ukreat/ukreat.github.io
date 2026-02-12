@@ -1,0 +1,24 @@
+---
+title: "Kidney journals"
+---
+
+*Last updated: 2026-02-11*
+
+|Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
+|-------------------------|--------|-------------------|---------------|---------------|---------------|----|
+|Kidney Int               |USD 3500|ISN (20%)|100%|USD 165/page|4000|[URL](https://www.kidney-international.org/content/authorinfo)|
+|Kidney Int Rep           |USD 2800|ISN (20%)|100%|*None*|4000|[URL](https://www.sciencedirect.com/journal/kidney-international-reports/publish/guide-for-authors)|
+|Nephrol Dial Transplant  |EUR 3613|ERA (25%)|100%|*None*|3500^a^ |[URL](https://academic.oup.com/ndt/pages/author-guidelines)|
+|Clin Kidney J            |EUR 3069|ERA (33%)|0%|*None*|3000|[URL](https://academic.oup.com/ckj/pages/author-guidelines)|
+|Am J Kidney Dis          |USD 3200|NKF (20%)|100%|USD 75/page; USD 600 for colour figures|3500|[URL](https://www.ajkd.org/content/authorinfo)|
+|Kidney Med               |USD 2400|NKF (20%)|100%|*None*|3500|[URL](https://www.kidneymedicinejournal.org/content/authorinfo)|
+|J Am Soc Nephrol         |USD 5250|ASN (22%)|0%|USD 77/page; USD 550/colour page|3500|[URL](https://journals.lww.com/asnjournals/Pages/Information-for-Authors.aspx)|
+|Clin J Am Soc Nephrol    |USD 5250|ASN (22%)|0%|USD 77/page; USD 550/colour page|3500|[URL](https://journals.lww.com/asnjournals/Pages/Information-for-Authors.aspx)|
+|Kidney360                |USD 1800|ASN (42%)|0%|*None*|3500|[URL](https://journals.lww.com/asnjournals/Pages/Information-for-Authors.aspx)|
+|J Nephrol                |EUR 3490|SIN (20%)|100%|*None*|3000|[URL](https://academic.oup.com/joneph/pages/author-guidelines)|
+|Am J Nephrol             |EUR 3790|*None*|100%|EUR 540/page after 20k characters|5000|[URL](https://link.springer.com/journal/12882/submission-guidelines/research-article)|
+|BMC Nephrol              |EUR 2790|*None*|0%|*None*|*None*|[URL](https://link.springer.com/journal/12882/submission-guidelines)|
+
+[^a^ Including abstract]{style="font-size: 70%;"}
+
+Institutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available [here](www.openaccess.nl/nl/publiceren/uitgeversdeals) (Dutch).
