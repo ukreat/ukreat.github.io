@@ -9,27 +9,37 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Additional resources",
+    "title": "Resources",
     "section": "",
-    "text": "This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.\n\n\n\nNefrodata\nInteractive overview of Dutch CKD and kidney failure population\n\n\nNieratlas\nOverview of healthcare and related costs for individuals with kidney disease\n\n\n\n\n\n\n Back to top",
+    "text": "This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.\n\nKidneys\n\n\n\nNefrodata\nInteractive overview of Dutch CKD and kidney failure population\n\n\nNieratlas\nOverview of healthcare and related costs for individuals with kidney disease\n\n\n\n\n\nProgramming\n\n\n\nR Graph Gallery\nHow to make (almost) any graph in base R and ggplot2\n\n\nR-miss-tastic\nResources for managing missing data in R\n\n\n\n\n\nMiscellaneous\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Resources",
-      "Additional resources"
+      "Resources"
     ]
   },
   {
-    "objectID": "laymen.html",
-    "href": "laymen.html",
-    "title": "Voor niet-onderzoekers",
+    "objectID": "g-journals.html",
+    "href": "g-journals.html",
+    "title": "General journals",
     "section": "",
-    "text": "Back to top"
+    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\nN Engl J Med\n\n\n\n\n\n\n\n\nBr Med J\n\n\n\n\n\n\n\n\nBMJ Open\n\n\n\n\n\n\n\n\nAnn Intern Med\n\n\n\n\n\n\n\n\nLancet\n\n\n\n\n\n\n\n\nLancet Digit Health\n\n\n\n\n\n\n\n\nPLoS One\n\n\n\n\n\n\n\n\nJAMA\n\n\n\n\n\n\n\n\nJAMA Intern Med\n\n\n\n\n\n\n\n\nJAMA\n\n\n\n\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources",
+      "General journals"
+    ]
   },
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "The UMC Utrecht NE group: An introduction",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "NE Utrecht",
     "section": "",
-    "text": "Welcome to the blog of the nephroepidemiology group at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).\nTo kick things off, today, we had our first get together. Although the nephroepidemiology group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.\n…\nTo finish off, I’ll append an R trick to each post (until I run out of tricks)\n\nThis post’s R-trick: multicursor\nDid you know you can activate a multicursor in R? This allows you to write the same code on multiple lines simultaneously. Great for if you are writing code in bulk! To activate it, simply hold the Alt/Option key and drag the cursor along the lines that you want the cursor to apply to. On some operating systems, you may need to press the Alt/Option key one more time to activate the cursor. Happy bulk-writing!\nAn example from Stackoverflow \n\n\n\n\n Back to top"
+    "text": "De nier-data onderzoeksgroep van het UMC Utrecht\n\n\n\nIn begrijpbare taal\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\n\n\n\n\n\n\n\nThe UMC Utrecht NE group: An introduction\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "blog/posts/welkom/index.html",
+    "href": "blog/posts/welkom/index.html",
+    "title": "De nier-data onderzoeksgroep van het UMC Utrecht",
+    "section": "",
+    "text": "Welkom op de blog van de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest. Hier, op onze website, vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die informatie niet altijd makkelijk te lezen is, doordat het Engels is en gericht is op andere onderzoekers. Daarom hebben we ook deze blog. Op deze blog delen wij interessante informatie voor een breder publiek in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje ‘In begrijpbare taal’.\n\n\n\n Terug naar boven"
   },
   {
     "objectID": "index.html",
@@ -46,11 +56,33 @@
     "text": "We are a diverse group of researchers, who all bring our own specialties and skills that complement the team.\n\n\n\n\nRobin W. M. Vernooij\nORCID: 0000-0001-5734-4566\nRobin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin’s academic work is strengthened by ample experience in registry research and evidence synthesis.\n\n\n\n\n\n\nRoemer J. Janse\nORCID: 0000-0003-0059-872X\nRoemer is a clinical epidemiologist, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.\n\n\n\n\n\n\nCindy P. Porras\nORCID: 0000-0001-7692-9164\nCindy is a medical doctor and clinical epidemiologist, applying her knowledge to the cardiorenal axis. She performed multiple studies on sex differences in peripheral arterial disease and is currently investigating heart failure and its interplay with kidney disease. Her thesis also has a methodological component, with a specific focus on prediction modelling.\n\n\n\n\n\n\nJulia M.T. Colombijn\nORCID: 0000-0002-9022-5937\nJulia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.\n\n\n\n\n\n\nDenise M.J. Veltkamp\nORCID: 0000-0001-9914-7827\nDenise is a medical doctor whose research focuses on long-term outcomes after acute kidney injury. To get a broad overview, she has performed multiple meta-analyses and clustering studies, and worked on developing prediction models to get personalised insights in these long-term outcomes. Additionally, she has previously done research on the patient perspective in kidney transplantation.\n\n\n\n\n\n\nSanne Roos\nORCID: 0009-0004-7225-8542\nSanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis. Prior to her PhD, she already obtained experience in dialysis research, studying the effects of incremental dialysis.\n\n\n\n\n\n\nEllis Oortwijn\nORCID: 0009-0004-5917-8716\nEllis is a PhD student with a background in cardiovascular health and disease. Bringing with her experience in both fundamental and clinical research, she now focuses on the utilisation, safety, and effectiveness of cardiovascular risk management in individuals with chronic kidney disease.\n\n\n\n\n\n Back to top"
   },
   {
+    "objectID": "d-journals.html",
+    "href": "d-journals.html",
+    "title": "Diabetes journals",
+    "section": "",
+    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources",
+      "Diabetes journals"
+    ]
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "NE Utrecht",
     "section": "",
     "text": "For inquiries about individual papers, please contact the corresponding author of the respective paper.\nInterested in collaborating? Please contact Robin Vernooij (R.W.M.Vernooij-2@umcutrecht.nl).\nThis website is maintained by Roemer Janse. Any notes on content can be communicated to R.J.Janse-5@umcutrecht.nl.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "c-journals.html",
+    "href": "c-journals.html",
+    "title": "Cardiovascular journals",
+    "section": "",
+    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources",
+      "Cardiovascular journals"
+    ]
   },
   {
     "objectID": "projects.html",
@@ -88,25 +120,36 @@
     "text": "Kidney Tx through the lens of nephrology, immunology, and virology\nKidney transplantation is a clinical setting in which many different disciplines are brought together. However, research on kidney transplantation often does not combine all these disciplines. To shed new light on their interplay, we are investigating the long-term post-kidney transplantation phase using multidisciplinary data.\n\nPeople working on this\n\nRoemerRobin\n\n\n\n\n\n\nRoemer is using his previous experience in working on kidney disease to set-up this new research line. Combining advanced statistical methodology and high-quality large datasets, he will provide new insights while actively seeking funding to sustain this project.\n\n\n\n\n\n\n\n\nRobin is working together with Roemer to get this research line up and running, helping out with funding. As a core member of this project, he also helps steer the project in the most relevant direction."
   },
   {
-    "objectID": "blog/posts/welkom/index.html",
-    "href": "blog/posts/welkom/index.html",
-    "title": "De nier-data onderzoeksgroep van het UMC Utrecht",
+    "objectID": "e-journals.html",
+    "href": "e-journals.html",
+    "title": "Epidemiology journals",
     "section": "",
-    "text": "Welkom op de blog van de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest. Hier, op onze website, vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die informatie niet altijd makkelijk te lezen is, doordat het Engels is en gericht is op andere onderzoekers. Daarom hebben we ook deze blog. Op deze blog delen wij interessante informatie voor een breder publiek in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje ‘In begrijpbare taal’.\n\n\n\n Terug naar boven"
+    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\nJ Clin Epidemiol\n\n\n\n\n\n\n\n\nAm J Epidemiol\n\n\n\n\n\n\n\n\nEur J Epidemiol\n\n\n\n\n\n\n\n\nInt J Epidemiol\n\n\n\n\n\n\n\n\nEpidemiol\n\n\n\n\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources",
+      "Epidemiology journals"
+    ]
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "NE Utrecht",
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "The UMC Utrecht NE group: An introduction",
     "section": "",
-    "text": "De nier-data onderzoeksgroep van het UMC Utrecht\n\n\n\nIn begrijpbare taal\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\n\n\n\n\n\n\n\nThe UMC Utrecht NE group: An introduction\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Welcome to the blog of the nephroepidemiology group at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).\nTo kick things off, today, we had our first get together. Although the nephroepidemiology group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.\n…\nTo finish off, I’ll append an R trick to each post (until I run out of tricks)\n\nThis post’s R-trick: multicursor\nDid you know you can activate a multicursor in R? This allows you to write the same code on multiple lines simultaneously. Great for if you are writing code in bulk! To activate it, simply hold the Alt/Option key and drag the cursor along the lines that you want the cursor to apply to. On some operating systems, you may need to press the Alt/Option key one more time to activate the cursor. Happy bulk-writing!\nAn example from Stackoverflow \n\n\n\n\n Back to top"
   },
   {
-    "objectID": "journals.html",
-    "href": "journals.html",
+    "objectID": "laymen.html",
+    "href": "laymen.html",
+    "title": "Voor niet-onderzoekers",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "k-journals.html",
+    "href": "k-journals.html",
     "title": "Kidney journals",
     "section": "",
-    "text": "Journal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\n\n\n\n\nKidney Int\nUSD 3500\nISN (20%)\n100%\nUSD 165 / page\n4000\n\n\nKidney Int Rep\nUSD 2800\nISN (20%)\n100%\nNone\n4000\n\n\nNephrol Dial Transplant\nEUR 3613\nERA (25%)\n100%\nNone\n3500a\n\n\nClin Kidney J\nEUR 3069\nERA (33%)\n0%\nNone\n3000\n\n\n\na Including abstract\n\n\n\n Back to top",
+    "text": "Last updated: 2026-02-11\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\nKidney Int\nUSD 3500\nISN (20%)\n100%\nUSD 165/page\n4000\nURL\n\n\nKidney Int Rep\nUSD 2800\nISN (20%)\n100%\nNone\n4000\nURL\n\n\nNephrol Dial Transplant\nEUR 3613\nERA (25%)\n100%\nNone\n3500a\nURL\n\n\nClin Kidney J\nEUR 3069\nERA (33%)\n0%\nNone\n3000\nURL\n\n\nAm J Kidney Dis\nUSD 3200\nNKF (20%)\n100%\nUSD 75/page; USD 600 for colour figures\n3500\nURL\n\n\nKidney Med\nUSD 2400\nNKF (20%)\n100%\nNone\n3500\nURL\n\n\nJ Am Soc Nephrol\nUSD 5250\nASN (22%)\n0%\nUSD 77/page; USD 550/colour page\n3500\nURL\n\n\nClin J Am Soc Nephrol\nUSD 5250\nASN (22%)\n0%\nUSD 77/page; USD 550/colour page\n3500\nURL\n\n\nKidney360\nUSD 1800\nASN (42%)\n0%\nNone\n3500\nURL\n\n\nJ Nephrol\nEUR 3490\nSIN (20%)\n100%\nNone\n3000\nURL\n\n\nAm J Nephrol\nEUR 3790\nNone\n100%\nEUR 540/page after 20k characters\n5000\nURL\n\n\nBMC Nephrol\nEUR 2790\nNone\n0%\nNone\nNone\nURL\n\n\n\na Including abstract\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
     "crumbs": [
       "Resources",
       "Kidney journals"
