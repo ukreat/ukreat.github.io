@@ -11,9 +11,7 @@ format:
               href: https://www.umcutrecht.nl/nl/specialisme/nefrologie?lang=en
 ---
 
-::: {style="font-size: 130%;"}
-Hi! Welcome to the homepage of the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.
-:::
+[Hi! Welcome to the homepage of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT); the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.]{style="font-size: 130%;"}
 
 Our team is diverse in its [background and specialties](team.qmd), but all members share the same mission: improving  clinical care and outcomes for individuals with chronic kidney disease, those on dialysis, and kidney transplant recipients, using epidemiological methods and big data.
 

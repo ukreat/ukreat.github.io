@@ -7,4 +7,4 @@ image: creat_cafe.png
 categories: [In begrijpbare taal]
 ---
 
-Welkom op de blog van de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest. Hier, op onze website, vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die informatie niet altijd makkelijk te lezen is, doordat het Engels is en gericht is op andere onderzoekers. Daarom hebben we ook deze blog. Op deze blog delen wij interessante informatie voor een breder publiek in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje 'In begrijpbare taal'.
+Welkom op de blog van U-KREAT; de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest. Hier, op onze website, vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die informatie niet altijd makkelijk te lezen is, doordat het Engels is en gericht is op andere onderzoekers. Daarom hebben we ook deze blog. Op deze blog delen wij interessante informatie voor een breder publiek in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje 'In begrijpbare taal'.

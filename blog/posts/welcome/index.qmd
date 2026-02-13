@@ -6,9 +6,9 @@ categories: [News]
 image: creat_cafe.png
 ---
 
-Welcome to the blog of the nephroepidemiology group at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).
+Welcome to the blog of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT) at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).
 
-To kick things off, today, we had our first get together. Although the nephroepidemiology group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.
+To kick things off, today, we had our first get together at the Café Creatinine. Although our group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.
 
 ...
 

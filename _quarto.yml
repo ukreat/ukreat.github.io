@@ -4,7 +4,7 @@ project:
 website:
   favicon: images/logo.png
 
-  title: "NE Utrecht"
+  title: "U-KREAT"
   navbar:
     pinned: true
     logo: images/logo.png
