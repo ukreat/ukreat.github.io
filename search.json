@@ -30,7 +30,7 @@
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "NE Utrecht",
+    "title": "U-KREAT",
     "section": "",
     "text": "De nier-data onderzoeksgroep van het UMC Utrecht\n\n\n\nIn begrijpbare taal\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\n\n\n\n\n\n\n\nThe UMC Utrecht NE group: An introduction\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\nNo matching items\n Back to top"
   },
@@ -39,14 +39,14 @@
     "href": "blog/posts/welkom/index.html",
     "title": "De nier-data onderzoeksgroep van het UMC Utrecht",
     "section": "",
-    "text": "Welkom op de blog van de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest. Hier, op onze website, vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die informatie niet altijd makkelijk te lezen is, doordat het Engels is en gericht is op andere onderzoekers. Daarom hebben we ook deze blog. Op deze blog delen wij interessante informatie voor een breder publiek in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje ‘In begrijpbare taal’.\n\n\n\n Terug naar boven"
+    "text": "Welkom op de blog van U-KREAT; de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest. Hier, op onze website, vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die informatie niet altijd makkelijk te lezen is, doordat het Engels is en gericht is op andere onderzoekers. Daarom hebben we ook deze blog. Op deze blog delen wij interessante informatie voor een breder publiek in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje ‘In begrijpbare taal’.\n\n\n\n Terug naar boven"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "NE Utrecht",
+    "title": "U-KREAT",
     "section": "",
-    "text": "Hi! Welcome to the homepage of the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.\n\nOur team is diverse in its background and specialties, but all members share the same mission: improving clinical care and outcomes for individuals with chronic kidney disease, those on dialysis, and kidney transplant recipients, using epidemiological methods and big data.\nTo this end, we use advanced epidemiological and data scientific methods, applied to a wide range of large and granular data sources, including randomised controlled trials, cohort studies, electronic health records, and registries.\nWe are located at the UMC Utrecht. Our team is embedded in the Department of Nephrology and Hypertension and in Utrecht Patient Oriented Database (UPOD) of the Central Diagnostics Laboratory.\n\n\n\n\n\nUMC Utrecht\n\n\nThis collaboration gives us access both to direct clinical involvement and to the high-quality research infrastructure of UPOD.\nWant to know more? Check out our currently running projects and previous output.\n\n\n\n Back to top"
+    "text": "Hi! Welcome to the homepage of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT); the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.\nOur team is diverse in its background and specialties, but all members share the same mission: improving clinical care and outcomes for individuals with chronic kidney disease, those on dialysis, and kidney transplant recipients, using epidemiological methods and big data.\nTo this end, we use advanced epidemiological and data scientific methods, applied to a wide range of large and granular data sources, including randomised controlled trials, cohort studies, electronic health records, and registries.\nWe are located at the UMC Utrecht. Our team is embedded in the Department of Nephrology and Hypertension and in Utrecht Patient Oriented Database (UPOD) of the Central Diagnostics Laboratory.\n\n\n\n\n\nUMC Utrecht\n\n\nThis collaboration gives us access both to direct clinical involvement and to the high-quality research infrastructure of UPOD.\nWant to know more? Check out our currently running projects and previous output.\n\n\n\n Back to top"
   },
   {
     "objectID": "team.html",
@@ -69,7 +69,7 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "NE Utrecht",
+    "title": "U-KREAT",
     "section": "",
     "text": "For inquiries about individual papers, please contact the corresponding author of the respective paper.\nInterested in collaborating? Please contact Robin Vernooij (R.W.M.Vernooij-2@umcutrecht.nl).\nThis website is maintained by Roemer Janse. Any notes on content can be communicated to R.J.Janse-5@umcutrecht.nl.\n\n\n\n\n Back to top"
   },
@@ -135,7 +135,7 @@
     "href": "blog/posts/welcome/index.html",
     "title": "The UMC Utrecht NE group: An introduction",
     "section": "",
-    "text": "Welcome to the blog of the nephroepidemiology group at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).\nTo kick things off, today, we had our first get together. Although the nephroepidemiology group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.\n…\nTo finish off, I’ll append an R trick to each post (until I run out of tricks)\n\nThis post’s R-trick: multicursor\nDid you know you can activate a multicursor in R? This allows you to write the same code on multiple lines simultaneously. Great for if you are writing code in bulk! To activate it, simply hold the Alt/Option key and drag the cursor along the lines that you want the cursor to apply to. On some operating systems, you may need to press the Alt/Option key one more time to activate the cursor. Happy bulk-writing!\nAn example from Stackoverflow \n\n\n\n\n Back to top"
+    "text": "Welcome to the blog of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT) at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).\nTo kick things off, today, we had our first get together at the Café Creatinine. Although our group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.\n…\nTo finish off, I’ll append an R trick to each post (until I run out of tricks)\n\nThis post’s R-trick: multicursor\nDid you know you can activate a multicursor in R? This allows you to write the same code on multiple lines simultaneously. Great for if you are writing code in bulk! To activate it, simply hold the Alt/Option key and drag the cursor along the lines that you want the cursor to apply to. On some operating systems, you may need to press the Alt/Option key one more time to activate the cursor. Happy bulk-writing!\nAn example from Stackoverflow \n\n\n\n\n Back to top"
   },
   {
     "objectID": "laymen.html",
@@ -158,7 +158,7 @@
   {
     "objectID": "output.html",
     "href": "output.html",
-    "title": "NE Utrecht",
+    "title": "U-KREAT",
     "section": "",
     "text": "Back to top"
   }
