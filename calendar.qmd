@@ -1,0 +1,19 @@
+|Date, Time                 |Type             |Title            |Notes                                     |
+|---------------------------|-----------------|-----------------|------------------------------------------|
+|02-Mar-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |**Talk:** Robin & Roemer on grant writing |
+|16-Mar-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|16-Mar-2026, 11:45-13:15   |Defence          |[Quality over Quantity: Personalizing dialysis treatment to improve quality of life](https://vu.nl/nl/agenda/2026/promotie-t-s-van-lieshout)|Bas van Lieshout (AUMC/VU) |
+|20-Mar-2026, 13:00         |Defence          |[Impact of the COVID-19 pandemic on patients with advanced chronic kidney disease: An epidemiological, clinical and psychosocial perspective](https://www.maastrichtuniversity.nl/events/phd-defence-pim-bouwmans)|Pim Bouwmans (MUMC+)
+|30-Mar-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|07-Apr-2026                |Conference       |[Niercongres](https://nierstichting.nl/niercongres)     |Abstract deadline on 01-Mar-2026          |
+|13-Apr-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|27-Apr-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|11-May-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|25-May-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|03-Jun-2026 to 07-Jun-2026 |Conference       |[ERA](https://www.era-online.org/events/glasgow-2026/)              |                                          |
+|08-Jun-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|18-Jun-2026 to 19-Jun-2026 |Conference       |[DCVA-NLHI](https://congress2026.heart-institute.nl/)     |                                          |
+|22-Jun-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|30-Jun-2026, 12:15         |Defence          |Improving patient-centered care: focusing on patients and their caregivers|Esmee Driehuis (UMCU)
+|06-Jul-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|20-Jul-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |

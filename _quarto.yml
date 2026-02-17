@@ -20,6 +20,8 @@ website:
     right:
       - href: resources.qmd
         text: Resources
+      - href: calendar.qmd
+        text: Calendar
       - href: contact.qmd
         text: Contact
   back-to-top-navigation: true
