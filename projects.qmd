@@ -109,7 +109,7 @@ Haemodiafiltration (HDF) is a possible alternative to haemodialysis (HD) that us
 ## Sanne
 :::: columns
 ::: {.column width="20%"}
-![](headshots/sr.png){.lightbox width=90%}
+![](headshots/sr.jpg){.lightbox width=90%}
 :::
 
 ::: {.column width="80%"}

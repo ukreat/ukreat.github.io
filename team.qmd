@@ -71,7 +71,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](){.lightbox width=90%}
+![](headshots/sr.jpg){.lightbox width=90%}
 :::
 
 ::: {.column width="80%"}
