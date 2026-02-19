@@ -20,10 +20,10 @@
 
 #### Bi-weekly meeting agenda
 *Per individual:*
-- What's good?
-- What's cooking?
-- What's next?
+* What's good?
+* What's cooking?
+* What's next?
 
 *As a group:*
-- What's coming up?
-- What's happening at the next Café Creatinine?
+* What's coming up?
+* What's happening at the next Café Creatinine?

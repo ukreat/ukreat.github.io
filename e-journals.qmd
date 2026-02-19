@@ -2,14 +2,15 @@
 title: "Epidemiology journals"
 ---
 
-*Last updated: [x]*
+*Last updated: 2026-02-19*
 
 |Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
 |-------------------------|--------|-------------------|---------------|---------------|---------------|----|
-|J Clin Epidemiol       |
-|Am J Epidemiol         |
-|Eur J Epidemiol        |
-|Int J Epidemiol        |
-|Epidemiol              |
+|Am J Epidemiol         |USD 5099|SER (20%)|100%|USD 95/page + taxes|4000|[Link](https://academic.oup.com/aje/pages/author-guidelines)
+|Ann Epidemiol          |USD 3630|*None*|100%|*None*|3000|[Link](https://www.sciencedirect.com/journal/annals-of-epidemiology/publish/guide-for-authors)
+|Epidemiol              |USD 4763|*None*|100%|USD 65/page 5-7; USD 90/page 8+; USD 750 for first colour figure, USD 150/colour figure after|4000|[Link](https://edmgr.ovid.com/epid/accounts/ifauth.htm)
+|Eur J Epidemiol        |EUR 4590|*None*|100%|*None*|*None*|[Link](https://link.springer.com/journal/10654/submission-guidelines)|
+|Int J Epidemiol        |GBP 3594|IEA (15%)|100%|*None*|3000|[Link](https://academic.oup.com/ije/pages/General_Instructions)|
+|J Clin Epidemiol       |USD 4370|*None*|100%|*None*|3000|[Link](https://www.sciencedirect.com/journal/journal-of-clinical-epidemiology/publish/guide-for-authors)|
 
 Institutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available [here](www.openaccess.nl/nl/publiceren/uitgeversdeals) (Dutch).

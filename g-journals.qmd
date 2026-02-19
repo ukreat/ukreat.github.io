@@ -6,16 +6,20 @@ title: "General journals"
 
 |Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
 |-------------------------|--------|-------------------|---------------|---------------|---------------|----|
-|N Engl J Med|
-|Br Med J|
-|BMJ Open|
-|Ann Intern Med|
-|Lancet|
-|Lancet Digit Health|
-|PLoS One|
-|JAMA|
-|JAMA Intern Med|
-|JAMA|
+|Ann Intern Med|||0%|
+|BMJ Digital Health & AI|
+|BMJ Open|||0%|
+|Br Med J|||0%|
+|JAMA|||0%|
+|JAMA Intern Med|||0%|
+|JAMA Netw Open|||0%|
+|Lancet|||0%|
+|Lancet Digit Health|||0%|
+|N Engl J Med|||0%|
+|PLoS Med|||0%|
+|PLoS One|||0%|
+|Sci Rep|||0%|
+
 
 
 Institutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available [here](www.openaccess.nl/nl/publiceren/uitgeversdeals) (Dutch).
