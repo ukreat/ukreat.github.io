@@ -2,8 +2,8 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/welcome/index.html",
-      "/blog/posts/welkom/index.html"
+      "/blog/posts/welkom/index.html",
+      "/blog/posts/welcome/index.html"
     ]
   }
 ]
