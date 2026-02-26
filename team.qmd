@@ -6,7 +6,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rwmv.jpeg){.lightbox width=90%}
+![](headshots/rwmv.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -19,7 +19,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rjj.jpg){.lightbox width=90%}
+![](headshots/rjj.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -32,7 +32,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/cpp.jpg){.lightbox width=90%}
+![](headshots/cpp.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -45,7 +45,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/jmtc.jpg){.lightbox width=90%}
+![](headshots/jmtc.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -58,7 +58,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/dmjv.jpg){.lightbox width=90%}
+![](headshots/dmjv.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -71,7 +71,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/sr.jpg){.lightbox width=90%}
+![](headshots/sr.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -84,7 +84,7 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/eo.jpg){.lightbox width=90%}
+![](headshots/eo.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}

@@ -5,7 +5,7 @@
 // Base document colors
 $body-bg: #181818;
 $body-color: #ccc;
-$link-color: #75AADB;
+$link-color: $secondary;
 
 // Code blocks
 $code-block-bg-alpha: -.9;
@@ -23,13 +23,11 @@ $navbar-fg: $secondary;
     color: $primary !important;
 }
 
-/*
 // TOC
 .sidebar nav[role=doc-toc] ul > li > a.nav-link.active {
     border-left: 1px solid $primary !important;
     color: $primary !important;
 }
-*/
 
 .menu-text {
     color: $secondary !important;

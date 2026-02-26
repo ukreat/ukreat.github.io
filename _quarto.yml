@@ -37,18 +37,11 @@ website:
         - d-journals.qmd
         - e-journals.qmd
 
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**NB** - this website is in active development; any information may not be final"
-    type: primary
-    position: below-navbar
-
 format:
   html:
     theme: 
-      light: [simplex, theme.scss]
-      dark: [simplex, theme_dark.scss]
+      light: [ukreat, theme.scss]
+      dark: [ukreat, theme_dark.scss]
     respect-user-color-scheme: true
     toc: true
 
