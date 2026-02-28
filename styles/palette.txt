@@ -1,0 +1,9 @@
+The palette for U-KREAT is as follows:
+
+#D6E1E6
+#557A8B
+#8DCE94
+#2C6633
+#122B15
+
+Coolors link @ https://coolors.co/d6e1e6-557a8b-8dce94-2c6633-122b15
