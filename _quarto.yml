@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  favicon: images/logo.png
+  favicon: images/logo_light.png
 
   title: "U-KREAT"
   navbar:
     pinned: true
-    logo: images/logo.png
+    logo: images/logo_dark.png
     left:
       - href: team.qmd
         text: Meet the team
@@ -40,8 +40,8 @@ website:
 format:
   html:
     theme: 
-      light: [ukreat, theme.scss]
-      dark: [ukreat, theme_dark.scss]
+      light: [styles/ukreat, styles/theme.scss]
+      dark: [styles/ukreat, styles/theme_dark.scss]
     respect-user-color-scheme: true
     toc: true
 
