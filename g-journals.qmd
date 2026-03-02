@@ -2,13 +2,13 @@
 title: "General journals"
 ---
 
-*Last updated: [x]*
+*Last updated: 2026-03-02*
 
 |Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
 |-------------------------|--------|-------------------|---------------|---------------|---------------|----|
-|Ann Intern Med|||0%|
-|BMJ Open|||0%|
-|Br Med J|||0%|
+|Ann Intern Med|*No open access*|*None*|0%|*None*|3500|[Link](https://www.acpjournals.org/journal/aim/authors)|
+|BMJ Open|GBP 2390|*None*|0%|*None*|*None*|[Link](https://bmjopen.bmj.com/pages/authors#submission_guidelines)|
+|Br Med J|EUR 7270|*None*|0%|*None*|*None*|[Link](https://www.bmj.com/about-bmj/resources-authors/article-types)|
 |JAMA|||0%|
 |JAMA Intern Med|||0%|
 |JAMA Netw Open|||0%|
