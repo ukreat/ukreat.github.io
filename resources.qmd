@@ -4,29 +4,25 @@ title: "Resources"
 
 This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.
 
-#### U-KREAT
+### U-KREAT
 |||
 |------|-------|
 |[Logo](https://github.com/ukreat/ukreat.github.io/tree/main/theme/logo)| Light- and dark-theme logos of U-KREAT |
-|[Powerpoint^a^](https://github.com/ukreat/ukreat.github.io/raw/refs/heads/main/theme/ukreat.potx)| Powerpoint template of the U-KREAT team |
-|[Style](https://github.com/ukreat/ukreat.github.io/tree/main/theme/style.txt)| Information on colour palette and font of U-KREAT |
+|[Powerpoint](https://github.com/ukreat/ukreat.github.io/raw/refs/heads/main/theme/ukreat.potx)^a^| Powerpoint template of the U-KREAT team |
+|[Style](theme/style.qmd)| Information on colour palette and font of U-KREAT |
 |[QR code](https://github.com/ukreat/ukreat.github.io/tree/main/theme/qr-code.png)| QR code linking to U-KREAT website |
 
-^a^ To install the powerpoint template, look online for [Windows](https://support.microsoft.com/en-us/office/use-a-personal-template-to-create-a-new-powerpoint-presentation-71262c90-1447-4109-90f3-eb84f9d06c98) for for [MacOS](https://learn.microsoft.com/en-us/answers/questions/5211573/where-are-the-powerpoint-templates-stored-on-a-mac).
+^a^ To install the powerpoint template, look online for [Windows](https://support.microsoft.com/en-us/office/use-a-personal-template-to-create-a-new-powerpoint-presentation-71262c90-1447-4109-90f3-eb84f9d06c98) or for [MacOS](https://learn.microsoft.com/en-us/answers/questions/5211573/where-are-the-powerpoint-templates-stored-on-a-mac).
 
-#### Kidneys
+### Kidneys
 |||
 |-------|-----|
 | [Nefrodata](https://ivisualz.sivz.nl/ivisualz/chartFlash/charts) | Interactive overview of Dutch CKD and kidney failure population |
 | [Nieratlas](https://nieratlas.nl/) | Overview of healthcare and related costs for individuals with kidney disease |
 
-#### Programming
+### Programming
 |||
 |-------|-----|
 | [R Graph Gallery](https://ivisualz.sivz.nl/ivisualz/chartFlash/charts) | How to make (almost) any graph in base R and ggplot2 |
 | [R-miss-tastic](https://rmisstastic.netlify.app/rpkg/) | Resources for managing missing data in R |
-
-#### Miscellaneous
-|||
-|-------|-----|
 
