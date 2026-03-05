@@ -1,6 +1,6 @@
 |Date, Time                 |Type             |Title            |Notes                                     |
 |---------------------------|-----------------|-----------------|------------------------------------------|
-|16-Mar-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |**Talk:** |
+|16-Mar-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |**Talk:** Roemer on accessible and objective figures|
 |16-Mar-2026, 11:45-13:15   |Defence          |[Quality over Quantity: Personalizing dialysis treatment to improve quality of life](https://vu.nl/nl/agenda/2026/promotie-t-s-van-lieshout)|Bas van Lieshout (AUMC/VU) |
 |20-Mar-2026, 13:00         |Defence          |[Impact of the COVID-19 pandemic on patients with advanced chronic kidney disease: An epidemiological, clinical and psychosocial perspective](https://www.maastrichtuniversity.nl/events/phd-defence-pim-bouwmans)|Pim Bouwmans (MUMC+)
 |30-Mar-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |**Talk:** Sanne on nPCR differences between HDF and HD |
