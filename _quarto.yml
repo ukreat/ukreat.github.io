@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  favicon: images/logo_light.png
+  favicon: theme/logo/logo_light.png
 
   title: "U-KREAT"
   navbar:
     pinned: true
-    logo: images/logo_dark.png
+    logo: theme/logo/logo_dark.png
     left:
       - href: team.qmd
         text: Meet the team

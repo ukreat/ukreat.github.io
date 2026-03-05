@@ -4,6 +4,15 @@ title: "Resources"
 
 This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.
 
+### U-KREAT
+|||
+|------|-------|
+|[Logo](https://github.com/ukreat/ukreat.github.io/tree/main/theme/logo)| Light- and dark-theme logos of U-KREAT |
+|[Powerpoint](https://github.com/ukreat/ukreat.github.io/tree/main/theme/ukreat.potx)| Powerpoint template of the U-KREAT team |
+|[Style](https://github.com/ukreat/ukreat.github.io/tree/main/theme/style.txt)| Information on colour palette and font of U-KREAT |
+
+|[QR code](https://github.com/ukreat/ukreat.github.io/tree/main/theme/qr-code.png)| QR code linking to U-KREAT website |
+
 #### Kidneys
 |||
 |-------|-----|
