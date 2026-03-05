@@ -361,8 +361,16 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#u-kreat" id="toc-u-kreat" class="nav-link active" data-scroll-target="#u-kreat">U-KREAT</a></li>
+  <li><a href="#kidneys" id="toc-kidneys" class="nav-link" data-scroll-target="#kidneys">Kidneys</a></li>
+  <li><a href="#programming" id="toc-programming" class="nav-link" data-scroll-target="#programming">Programming</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -388,8 +396,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>This page contains several subpages with relevant resources. Additionally, the below resources may be of interest.</p>
-<section id="u-kreat" class="level4">
-<h4 class="anchored" data-anchor-id="u-kreat">U-KREAT</h4>
+<section id="u-kreat" class="level3">
+<h3 class="anchored" data-anchor-id="u-kreat">U-KREAT</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -412,8 +420,8 @@ ul.task-list li input[type="checkbox"] {
 </table>
 <p><sup>a</sup> To install the powerpoint template, look online for <a href="https://support.microsoft.com/en-us/office/use-a-personal-template-to-create-a-new-powerpoint-presentation-71262c90-1447-4109-90f3-eb84f9d06c98">Windows</a> or for <a href="https://learn.microsoft.com/en-us/answers/questions/5211573/where-are-the-powerpoint-templates-stored-on-a-mac">MacOS</a>.</p>
 </section>
-<section id="kidneys" class="level4">
-<h4 class="anchored" data-anchor-id="kidneys">Kidneys</h4>
+<section id="kidneys" class="level3">
+<h3 class="anchored" data-anchor-id="kidneys">Kidneys</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -427,8 +435,8 @@ ul.task-list li input[type="checkbox"] {
 </tbody>
 </table>
 </section>
-<section id="programming" class="level4">
-<h4 class="anchored" data-anchor-id="programming">Programming</h4>
+<section id="programming" class="level3">
+<h3 class="anchored" data-anchor-id="programming">Programming</h3>
 <table class="caption-top table">
 <tbody>
 <tr class="odd">
@@ -439,13 +447,6 @@ ul.task-list li input[type="checkbox"] {
 <td><a href="https://rmisstastic.netlify.app/rpkg/">R-miss-tastic</a></td>
 <td>Resources for managing missing data in R</td>
 </tr>
-</tbody>
-</table>
-</section>
-<section id="miscellaneous" class="level4">
-<h4 class="anchored" data-anchor-id="miscellaneous">Miscellaneous</h4>
-<table class="caption-top">
-<tbody>
 </tbody>
 </table>
 
@@ -538,7 +539,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/ukreat\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
