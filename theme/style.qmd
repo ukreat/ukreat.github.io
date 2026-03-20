@@ -14,4 +14,6 @@ The standard font for U-KREAT is [Euphemia](https://fontsgeek.com/fonts/Euphemia
 
 ---
 
+The visual design for U-KREAT was developed by Roemer Janse and Ellis Oortwijn.
+
 [Back to resources](https://ukreat.github.io/resources.html)
