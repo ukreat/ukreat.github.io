@@ -31,33 +31,87 @@
     "text": "Back to top"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Academic publications",
+    "objectID": "other_media.html",
+    "href": "other_media.html",
+    "title": "Non-academic publications",
     "section": "",
-    "text": "Long-term outcomes after acute kidney injury\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nCardiovascular risk management in CKD\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nHaemodiafiltration as alternative to haemodialysis\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nPersonalised care for kidney transplant recipients\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nInterplay between the environment and kidney disease\n\n\n\nTopic\nSummary\nMore\n\n\n\n\nResidential environmental factors and kidney function\nWe investigated whether air pollution and how walkable a neighborhood is affecting the kidney function of older adults in the Netherlands. The results were inconsistent: while from one cohort we found that higher levels of air pollution were linked to poorer kidney function, other data showed no clear connection. Similarly, living in an easily walkable neighborhood did not show a clear impact on kidney function. Hence, larger studies with a longer follow-up are needed before we can give a definitive answer on how environmental factors influence kidney health.\nLink\n\n\n\n\n\n\n\n Back to top",
+    "text": "Topic\nSummary\nMore\n\n\n\n\nLong-term risks of AKI [Dutch]\nAcute nierschade treft jaarlijks tienduizenden ziekenhuispatiënten in Nederland. Dit is zeer schadelijk voor het lichaam en kan mogelijk leiden tot onomkeerbare, chronische nierschade (CKD). Tot nu toe werd aangenomen dat een kortdurende AKI (&lt; 3 dagen) weinig blijvende gevolgen had, maar recent onderzoek vtoont aan dat zelfs kortdurende episodes van AKI het risico op CKD verhogen.\nLink\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Output",
-      "Academic publications"
+      "Non-academic publications"
     ]
   },
   {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
-    "title": "The UMC Utrecht NE group: An introduction",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "U-KREAT",
     "section": "",
-    "text": "Welcome to the blog of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT) at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).\nTo kick things off, today, we had our first get together at the Café Creatinine. Although our group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.\n…\nTo finish off, I’ll append an R trick to each post (until I run out of tricks)\n\nThis post’s R-trick: multicursor\nDid you know you can activate a multicursor in R? This allows you to write the same code on multiple lines simultaneously. Great for if you are writing code in bulk! To activate it, simply hold the Alt/Option key and drag the cursor along the lines that you want the cursor to apply to. On some operating systems, you may need to press the Alt/Option key one more time to activate the cursor. Happy bulk-writing!\nAn example from Stackoverflow \n\n\n\n\n Back to top"
+    "text": "De nier-data onderzoeksgroep van het UMC Utrecht\n\n\n\nIn begrijpbare taal\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\n\n\n\n\n\n\n\nThe UMC Utrecht NE group: An introduction\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
-    "objectID": "e-journals.html",
-    "href": "e-journals.html",
-    "title": "Epidemiology",
+    "objectID": "blog/posts/welkom/index.html",
+    "href": "blog/posts/welkom/index.html",
+    "title": "De nier-data onderzoeksgroep van het UMC Utrecht",
     "section": "",
-    "text": "Last updated: 2026-02-19\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\nAm J Epidemiol\nUSD 5099\nSER (20%)\n100%\nUSD 95/page + taxes\n4000\nLink\n\n\nAnn Epidemiol\nUSD 3630\nNone\n100%\nNone\n3000\nLink\n\n\nEpidemiol\nUSD 4763\nNone\n100%\nUSD 65/page 5-7; USD 90/page 8+; USD 750 for first colour figure, USD 150/colour figure after\n4000\nLink\n\n\nEur J Epidemiol\nEUR 4590\nNone\n100%\nNone\nNone\nLink\n\n\nInt J Epidemiol\nGBP 3594\nIEA (15%)\n100%\nNone\n3000\nLink\n\n\nJ Clin Epidemiol\nUSD 4370\nNone\n100%\nNone\n3000\nLink\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "text": "Welkom op de blog van U-KREAT. Wij zijn de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest.\nHier vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die Engelse informatie niet altijd makkelijk te begrijpen is, doordat het is geschreven voor andere onderzoekers. Daarom hebben we ook deze blog.\nOp deze blog delen wij interessante informatie in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje ‘In begrijpbare taal’.\n\n\n\n Terug naar boven"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "U-KREAT",
+    "section": "",
+    "text": "Hi! Welcome to the homepage of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT); the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.\nOur team is diverse in its background and specialties, but all members share the same mission: improving clinical care and outcomes for individuals with chronic kidney disease, those on dialysis, and kidney transplant recipients, using epidemiological methods and big data.\nTo this end, we use advanced epidemiological and data scientific methods, applied to a wide range of large and granular data sources, including randomised controlled trials, cohort studies, electronic health records, and registries.\nWe are located at the UMC Utrecht. Our team is embedded in the Department of Nephrology and Hypertension and in Utrecht Patient Oriented Database (UPOD) of the Central Diagnostics Laboratory.\n\n\n\n\n\nUMC Utrecht\n\n\nThis collaboration gives us access both to direct clinical involvement and to the high-quality research infrastructure of UPOD.\nWant to know more? Check out our currently running projects and previous output.\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Robin W. M. Vernooij\nORCID: 0000-0001-5734-4566\nRobin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin’s academic work is strengthened by ample experience in registry research and evidence synthesis.\n\n\n\n\n\n\nRoemer J. Janse\nORCID: 0000-0003-0059-872X\nRoemer is a clinical epidemiologist, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.\n\n\n\n\n\n\nJulia M.T. Colombijn\nORCID: 0000-0002-9022-5937\nJulia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.\n\n\n\n\n\n\nDenise M.J. Veltkamp\nORCID: 0000-0001-9914-7827\nDenise is a medical doctor whose research focuses on long-term outcomes after acute kidney injury. To get a broad overview, she has performed multiple meta-analyses and clustering studies, and worked on developing prediction models to get personalised insights in these long-term outcomes. Additionally, she has previously done research on the patient perspective in kidney transplantation.\n\n\n\n\n\n\nSanne Roos\nORCID: 0009-0004-7225-8542\nSanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis. Prior to her PhD, she already obtained experience in dialysis research, studying the effects of incremental dialysis.\n\n\n\n\n\n\nEllis Oortwijn\nORCID: 0009-0004-5917-8716\nEllis is a PhD student with a background in cardiovascular health and disease. Bringing with her experience in both fundamental and clinical research, she now focuses on the utilisation, safety, and effectiveness of cardiovascular risk management in individuals with chronic kidney disease.\n\n\n\n\n\n\nTibo F. Verburg\nORCID: No ORCID\nComing from a background in technology and sustainability, Tibo is doing his PhD on the environmental impact of kidney replacment therapy. His broad understanding of the topic offers him a unique perspective on kidney replacement therapy.\n\n\n\n\n\n\n\n\nSam ten Berge\nORCID: No ORCID\nSam is doing her MSc in Epidemiology at the University of Utrecht. In light of that, she is doing her thesis with our group on cluster analyses to phenotype patients with chronic kidney disease.\n\n\n\n\n\n\nJuras J. J. Huijben\nORCID: No ORCID\nJuras is nearing the end of his medical training. To also get a taste of the scientific side of medicine, he is working with us on better quantifying the effectiveness of haemodiafiltration."
+  },
+  {
+    "objectID": "team.html#members",
+    "href": "team.html#members",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Robin W. M. Vernooij\nORCID: 0000-0001-5734-4566\nRobin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin’s academic work is strengthened by ample experience in registry research and evidence synthesis.\n\n\n\n\n\n\nRoemer J. Janse\nORCID: 0000-0003-0059-872X\nRoemer is a clinical epidemiologist, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.\n\n\n\n\n\n\nJulia M.T. Colombijn\nORCID: 0000-0002-9022-5937\nJulia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.\n\n\n\n\n\n\nDenise M.J. Veltkamp\nORCID: 0000-0001-9914-7827\nDenise is a medical doctor whose research focuses on long-term outcomes after acute kidney injury. To get a broad overview, she has performed multiple meta-analyses and clustering studies, and worked on developing prediction models to get personalised insights in these long-term outcomes. Additionally, she has previously done research on the patient perspective in kidney transplantation.\n\n\n\n\n\n\nSanne Roos\nORCID: 0009-0004-7225-8542\nSanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis. Prior to her PhD, she already obtained experience in dialysis research, studying the effects of incremental dialysis.\n\n\n\n\n\n\nEllis Oortwijn\nORCID: 0009-0004-5917-8716\nEllis is a PhD student with a background in cardiovascular health and disease. Bringing with her experience in both fundamental and clinical research, she now focuses on the utilisation, safety, and effectiveness of cardiovascular risk management in individuals with chronic kidney disease.\n\n\n\n\n\n\nTibo F. Verburg\nORCID: No ORCID\nComing from a background in technology and sustainability, Tibo is doing his PhD on the environmental impact of kidney replacment therapy. His broad understanding of the topic offers him a unique perspective on kidney replacement therapy.\n\n\n\n\n\n\n\n\nSam ten Berge\nORCID: No ORCID\nSam is doing her MSc in Epidemiology at the University of Utrecht. In light of that, she is doing her thesis with our group on cluster analyses to phenotype patients with chronic kidney disease.\n\n\n\n\n\n\nJuras J. J. Huijben\nORCID: No ORCID\nJuras is nearing the end of his medical training. To also get a taste of the scientific side of medicine, he is working with us on better quantifying the effectiveness of haemodiafiltration."
+  },
+  {
+    "objectID": "team.html#prevous-members",
+    "href": "team.html#prevous-members",
+    "title": "Meet the team",
+    "section": "Prevous members",
+    "text": "Prevous members\n\n\n\n\nCindy P. Porras\nORCID: 0000-0001-7692-9164\nCindy performed here thesis with us on sex differences in peripheral arterial disease and the interplay between heart failure and kidney disease."
+  },
+  {
+    "objectID": "d-journals.html",
+    "href": "d-journals.html",
+    "title": "Diabetes",
+    "section": "",
+    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
     "crumbs": [
       "Resources",
       "Journals",
-      "Epidemiology"
+      "Diabetes"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "U-KREAT",
+    "section": "",
+    "text": "For inquiries about individual papers, please contact the corresponding author of the respective paper.\nInterested in collaborating? Please contact Robin Vernooij (R.W.M.Vernooij-2@umcutrecht.nl).\nThis website is maintained by Roemer Janse. Any notes on content can be communicated to R.J.Janse-5@umcutrecht.nl.\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "c-journals.html",
+    "href": "c-journals.html",
+    "title": "Cardiovascular",
+    "section": "",
+    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "crumbs": [
+      "Resources",
+      "Journals",
+      "Cardiovascular"
     ]
   },
   {
@@ -103,77 +157,34 @@
     "text": "Interplay between the environment and kidney disease\nEnvironmental factors such as polluation may lead to kidney disease. Conversely, kidney replacement therapy has a large environmental impact as a result of the required water use and high throughput of materials (such as dialysate). This project focusses on better understanding the effects of both the environment on kidney disease and of kidney disease on the environment.\n\nPeople working on this\n\nTiboRobin\n\n\n\n\n\n\nTibo is leading this research on sustainable innovation for kidney care. Leveraging his understanding of sustainable technology, he aims to reduce the impact of kidney replacement therapy while maintaining quality of care.\n\n\n\n\n\n\n\n\nWhilst Tibo can focus on the day-to-day research work for this project, Robin is making sure that the project maintains the right direction and that Tibo’s skills and time are used most efficiently."
   },
   {
-    "objectID": "c-journals.html",
-    "href": "c-journals.html",
-    "title": "Cardiovascular",
+    "objectID": "e-journals.html",
+    "href": "e-journals.html",
+    "title": "Epidemiology",
     "section": "",
-    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "text": "Last updated: 2026-02-19\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\nAm J Epidemiol\nUSD 5099\nSER (20%)\n100%\nUSD 95/page + taxes\n4000\nLink\n\n\nAnn Epidemiol\nUSD 3630\nNone\n100%\nNone\n3000\nLink\n\n\nEpidemiol\nUSD 4763\nNone\n100%\nUSD 65/page 5-7; USD 90/page 8+; USD 750 for first colour figure, USD 150/colour figure after\n4000\nLink\n\n\nEur J Epidemiol\nEUR 4590\nNone\n100%\nNone\nNone\nLink\n\n\nInt J Epidemiol\nGBP 3594\nIEA (15%)\n100%\nNone\n3000\nLink\n\n\nJ Clin Epidemiol\nUSD 4370\nNone\n100%\nNone\n3000\nLink\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
     "crumbs": [
       "Resources",
       "Journals",
-      "Cardiovascular"
+      "Epidemiology"
     ]
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "U-KREAT",
+    "objectID": "blog/posts/welcome/index.html",
+    "href": "blog/posts/welcome/index.html",
+    "title": "The UMC Utrecht NE group: An introduction",
     "section": "",
-    "text": "For inquiries about individual papers, please contact the corresponding author of the respective paper.\nInterested in collaborating? Please contact Robin Vernooij (R.W.M.Vernooij-2@umcutrecht.nl).\nThis website is maintained by Roemer Janse. Any notes on content can be communicated to R.J.Janse-5@umcutrecht.nl.\n\n\n\n\n Back to top"
+    "text": "Welcome to the blog of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT) at the UMC Utrecht! Here, we will share interesting publications (both from our own group and from other researchers), give updates on conferences we attended, and share posts aimed at laymen (written in understandable Dutch).\nTo kick things off, today, we had our first get together at the Café Creatinine. Although our group has existed for a longer time, this was given shape in an informal manner. Today marks the first occurrence of our biweekly recurring meeting. These meetings will serve not only as a short moment to connect with each other, but also to discuss currently ongoing projects, discuss articles, give talks, host external speakers, etc.\n…\nTo finish off, I’ll append an R trick to each post (until I run out of tricks)\n\nThis post’s R-trick: multicursor\nDid you know you can activate a multicursor in R? This allows you to write the same code on multiple lines simultaneously. Great for if you are writing code in bulk! To activate it, simply hold the Alt/Option key and drag the cursor along the lines that you want the cursor to apply to. On some operating systems, you may need to press the Alt/Option key one more time to activate the cursor. Happy bulk-writing!\nAn example from Stackoverflow \n\n\n\n\n Back to top"
   },
   {
-    "objectID": "d-journals.html",
-    "href": "d-journals.html",
-    "title": "Diabetes",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Academic publications",
     "section": "",
-    "text": "Last updated: [x]\n\n\n\n\n\n\n\n\n\n\n\n\nJournal\nAPC cost\nMembership discount\nCovered by UMCU\nAdditonal costs\nMax. word count\nMore\n\n\n\n\n\nInstitutions may have deals with publishers to waive the APC cost for individual institutional authors for a certain number of publications. If that number (i.e. the cap) is reached before the end of the year, APC costs are no longer waived. Information on deals and caps for Dutch institutions is available here (Dutch).\n\n\n\n Back to top",
+    "text": "Long-term outcomes after acute kidney injury\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nCardiovascular risk management in CKD\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nHaemodiafiltration as alternative to haemodialysis\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nPersonalised care for kidney transplant recipients\n\n\n\nTopic\nSummary\nMore\n\n\n\n\n\n\n\nInterplay between the environment and kidney disease\n\n\n\nTopic\nSummary\nMore\n\n\n\n\nResidential environmental factors and kidney function\nWe investigated whether air pollution and how walkable a neighborhood is affecting the kidney function of older adults in the Netherlands. The results were inconsistent: while from one cohort we found that higher levels of air pollution were linked to poorer kidney function, other data showed no clear connection. Similarly, living in an easily walkable neighborhood did not show a clear impact on kidney function. Hence, larger studies with a longer follow-up are needed before we can give a definitive answer on how environmental factors influence kidney health.\nLink\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
-      "Resources",
-      "Journals",
-      "Diabetes"
+      "Output",
+      "Academic publications"
     ]
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Robin W. M. Vernooij\nORCID: 0000-0001-5734-4566\nRobin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin’s academic work is strengthened by ample experience in registry research and evidence synthesis.\n\n\n\n\n\n\nRoemer J. Janse\nORCID: 0000-0003-0059-872X\nRoemer is a clinical epidemiologist, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.\n\n\n\n\n\n\nJulia M.T. Colombijn\nORCID: 0000-0002-9022-5937\nJulia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.\n\n\n\n\n\n\nDenise M.J. Veltkamp\nORCID: 0000-0001-9914-7827\nDenise is a medical doctor whose research focuses on long-term outcomes after acute kidney injury. To get a broad overview, she has performed multiple meta-analyses and clustering studies, and worked on developing prediction models to get personalised insights in these long-term outcomes. Additionally, she has previously done research on the patient perspective in kidney transplantation.\n\n\n\n\n\n\nSanne Roos\nORCID: 0009-0004-7225-8542\nSanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis. Prior to her PhD, she already obtained experience in dialysis research, studying the effects of incremental dialysis.\n\n\n\n\n\n\nEllis Oortwijn\nORCID: 0009-0004-5917-8716\nEllis is a PhD student with a background in cardiovascular health and disease. Bringing with her experience in both fundamental and clinical research, she now focuses on the utilisation, safety, and effectiveness of cardiovascular risk management in individuals with chronic kidney disease.\n\n\n\n\n\n\nTibo F. Verburg\nORCID: No ORCID\nComing from a background in technology and sustainability, Tibo is doing his PhD on the environmental impact of kidney replacment therapy. His broad understanding of the topic offers him a unique perspective on kidney replacement therapy.\n\n\n\n\n\n\n\n\nSam ten Berge\nORCID: No ORCID\nSam is doing her MSc in Epidemiology at the University of Utrecht. In light of that, she is doing her thesis with our group on cluster analyses to phenotype patients with chronic kidney disease.\n\n\n\n\n\n\nJuras J. J. Huijben\nORCID: No ORCID\nJuras is nearing the end of his medical training. To also get a taste of the scientific side of medicine, he is working with us on better quantifying the effectiveness of haemodiafiltration."
-  },
-  {
-    "objectID": "team.html#members",
-    "href": "team.html#members",
-    "title": "Meet the team",
-    "section": "",
-    "text": "Robin W. M. Vernooij\nORCID: 0000-0001-5734-4566\nRobin is an assistant professor at the UMC Utrecht, and spearheads this research group. He received his PhD on improving guideline methodology and reporting from the Universitat Autònoma de Barcelona (Spain). Having previously worked at Cochrane and the Dutch Cancer Registry, and currently working as epidemiologist at the Dutch Kidney Registry, Robin’s academic work is strengthened by ample experience in registry research and evidence synthesis.\n\n\n\n\n\n\nRoemer J. Janse\nORCID: 0000-0003-0059-872X\nRoemer is a clinical epidemiologist, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.\n\n\n\n\n\n\nJulia M.T. Colombijn\nORCID: 0000-0002-9022-5937\nJulia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.\n\n\n\n\n\n\nDenise M.J. Veltkamp\nORCID: 0000-0001-9914-7827\nDenise is a medical doctor whose research focuses on long-term outcomes after acute kidney injury. To get a broad overview, she has performed multiple meta-analyses and clustering studies, and worked on developing prediction models to get personalised insights in these long-term outcomes. Additionally, she has previously done research on the patient perspective in kidney transplantation.\n\n\n\n\n\n\nSanne Roos\nORCID: 0009-0004-7225-8542\nSanne is a medical doctor, doing her PhD on haemodiafiltration. Not only is she investigating the possible mechanisms through which haemodiafiltraiton improves survival; she is also working to assess the effect of haemodiafiltration in a real-world population and obtain individualised estimates of its effect over haemodialysis. Prior to her PhD, she already obtained experience in dialysis research, studying the effects of incremental dialysis.\n\n\n\n\n\n\nEllis Oortwijn\nORCID: 0009-0004-5917-8716\nEllis is a PhD student with a background in cardiovascular health and disease. Bringing with her experience in both fundamental and clinical research, she now focuses on the utilisation, safety, and effectiveness of cardiovascular risk management in individuals with chronic kidney disease.\n\n\n\n\n\n\nTibo F. Verburg\nORCID: No ORCID\nComing from a background in technology and sustainability, Tibo is doing his PhD on the environmental impact of kidney replacment therapy. His broad understanding of the topic offers him a unique perspective on kidney replacement therapy.\n\n\n\n\n\n\n\n\nSam ten Berge\nORCID: No ORCID\nSam is doing her MSc in Epidemiology at the University of Utrecht. In light of that, she is doing her thesis with our group on cluster analyses to phenotype patients with chronic kidney disease.\n\n\n\n\n\n\nJuras J. J. Huijben\nORCID: No ORCID\nJuras is nearing the end of his medical training. To also get a taste of the scientific side of medicine, he is working with us on better quantifying the effectiveness of haemodiafiltration."
-  },
-  {
-    "objectID": "team.html#prevous-members",
-    "href": "team.html#prevous-members",
-    "title": "Meet the team",
-    "section": "Prevous members",
-    "text": "Prevous members\n\n\n\n\nCindy P. Porras\nORCID: 0000-0001-7692-9164\nCindy performed here thesis with us on sex differences in peripheral arterial disease and the interplay between heart failure and kidney disease."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "U-KREAT",
-    "section": "",
-    "text": "Hi! Welcome to the homepage of the Utrecht Kidney Research & Epidemiological Analyses Team (U-KREAT); the nephroepidemiology research group of the University Medical Center (UMC) Utrecht.\nOur team is diverse in its background and specialties, but all members share the same mission: improving clinical care and outcomes for individuals with chronic kidney disease, those on dialysis, and kidney transplant recipients, using epidemiological methods and big data.\nTo this end, we use advanced epidemiological and data scientific methods, applied to a wide range of large and granular data sources, including randomised controlled trials, cohort studies, electronic health records, and registries.\nWe are located at the UMC Utrecht. Our team is embedded in the Department of Nephrology and Hypertension and in Utrecht Patient Oriented Database (UPOD) of the Central Diagnostics Laboratory.\n\n\n\n\n\nUMC Utrecht\n\n\nThis collaboration gives us access both to direct clinical involvement and to the high-quality research infrastructure of UPOD.\nWant to know more? Check out our currently running projects and previous output.\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "blog/posts/welkom/index.html",
-    "href": "blog/posts/welkom/index.html",
-    "title": "De nier-data onderzoeksgroep van het UMC Utrecht",
-    "section": "",
-    "text": "Welkom op de blog van U-KREAT. Wij zijn de nier-data onderzoeksgroep van het UMC Utrecht. Leuk dat u meeleest.\nHier vindt u informatie over ons team en de projecten waar we mee bezig zijn. We begrijpen dat die Engelse informatie niet altijd makkelijk te begrijpen is, doordat het is geschreven voor andere onderzoekers. Daarom hebben we ook deze blog.\nOp deze blog delen wij interessante informatie in begrijpbaar Nederlands, zoals dit bericht. Dit soort berichten staan onder het kopje ‘In begrijpbare taal’.\n\n\n\n Terug naar boven"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "U-KREAT",
-    "section": "",
-    "text": "De nier-data onderzoeksgroep van het UMC Utrecht\n\n\n\nIn begrijpbare taal\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\n\n\n\n\n\n\n\nThe UMC Utrecht NE group: An introduction\n\n\n\nNews\n\n\n\n\n\n\n\n\n\nJan 19, 2026\n\n\nRoemer J. Janse\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
     "objectID": "highlights.html",
