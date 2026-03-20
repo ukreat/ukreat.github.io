@@ -76,6 +76,17 @@ Continuing on the work Julia has done, Ellis is investigating the utilisation of
 :::
 ::::
 
+## Sam
+:::: columns
+::: {.column width="20%"}
+![](headshots/.jpg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
+For her student thesis, Sam is supporting this project through identifixation of distinct clusters of individuals with chronic kidney disease. These clusters may present readily applicable subgroups in clinical care in which treatment effects and prognosis regarding cardiovascular effects differ.
+:::
+::::
+
 ## Roemer
 :::: columns
 ::: {.column width="20%"}
@@ -117,6 +128,17 @@ Sanne is combing her clinical knowledge with her research skills to investigate 
 :::
 ::::
 
+## Juras
+:::: columns
+::: {.column width="20%"}
+![](headshots/.jpg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
+To better understand the possible mechanisms through which HDF can lead to an improved survival, it is essential to understand the quality of the HDF sessions. Juras is investigating whether the quality of HDF sessions can be quantified through a new metric, similar to Kt/V for HD.
+:::
+::::
+
 ## Robin
 :::: columns
 ::: {.column width="20%"}
@@ -142,8 +164,8 @@ Roemer has worked with Robin on HDF and is co-supervising Sanne in her work on H
 \
 \
 
-## Kidney Tx through the lens of nephrology, immunology, and virology
-Kidney transplantation is a clinical setting in which many different disciplines are brought together. However, research on kidney transplantation often does not combine all these disciplines. To shed new light on their interplay, we are investigating the long-term post-kidney transplantation phase using multidisciplinary data.
+## Personalised care for kidney transplant recipients
+Kidney transplant recipients are often treated through a 'one-size-fits-all' perspective. However, it is likely that important individual differences exist. These differences can be quantified through interweaving the related disciplines (nephrology, immunology, virology) in research on heterogeneity in the long-term post-kidney transplantation phase.
 
 #### People working on this
 ::::: {.panel-tabset}
@@ -166,6 +188,34 @@ Roemer is using his previous experience in working on kidney disease to set-up t
 
 ::: {.column width="80%"}
 Robin is working together with Roemer to get this research line up and running, helping out with funding. As a core member of this project, he also helps steer the project in the most relevant direction.
+:::
+::::
+:::::
+
+## Interplay between the environment and kidney disease
+Environmental factors such as polluation may lead to kidney disease. Conversely, kidney replacement therapy has a large environmental impact as a result of the required water use and high throughput of materials (such as dialysate). This project focusses on better understanding the effects of both the environment on kidney disease and of kidney disease on the environment.
+
+#### People working on this
+::::: {.panel-tabset}
+## Tibo
+:::: columns
+::: {.column width="20%"}
+![](headshots/tfv.jpg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
+Tibo is leading this research on sustainable innovation for kidney care. Leveraging his understanding of sustainable technology, he aims to reduce the impact of kidney replacement therapy while maintaining quality of care.
+:::
+::::
+
+## Robin
+:::: columns
+::: {.column width="20%"}
+![](headshots/rwmv.jpeg){.lightbox width=90%}
+:::
+
+::: {.column width="80%"}
+Whilst Tibo can focus on the day-to-day research work for this project, Robin is making sure that the project maintains the right direction and that Tibo's skills and time are used most efficiently.
 :::
 ::::
 :::::

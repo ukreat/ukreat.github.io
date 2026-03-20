@@ -1,8 +1,8 @@
 ---
-title: "Team members" 
+title: "Meet the team" 
 ---
 
-We are a diverse group of researchers, who all bring our own specialties and skills that complement the team.
+## Members
 
 :::: columns
 ::: {.column width="20%"}
@@ -27,19 +27,6 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 [*ORCID: [0000-0003-0059-872X](https://orcid.org/0000-0003-0059-872X)*]{style="font-size: 90%;"}
 
 [Roemer is a clinical epidemiologist, working on the interplay of nephrology, immunology, and virology in kidney transplantation recipients. He completed his BSc in Medicine and afterwards finished his PhD on causal inference and prediction modelling in people with CKD, at the Leiden University Medical Center (The Netherlands) and Karolinska Institutet (Sweden). Besides his clinical projects, he provides epidemiological and programming support.]{style="font-size: 80%;"}
-:::
-::::
-
-:::: columns
-::: {.column width="20%"}
-![](headshots/cpp.jpg){width=90%}
-:::
-
-::: {.column width="80%"}
-[**Cindy P. Porras**]{style="font-size: 120%;"}\
-[*ORCID: [0000-0001-7692-9164](https://orcid.org/0000-0001-7692-9164)*]{style="font-size: 90%;"}
-
-[Cindy is a medical doctor and clinical epidemiologist, applying her knowledge to the cardiorenal axis. She performed multiple studies on sex differences in peripheral arterial disease and is currently investigating heart failure and its interplay with kidney disease. Her thesis also has a methodological component, with a specific focus on prediction modelling.]{style="font-size: 80%;"}
 :::
 ::::
 
@@ -95,9 +82,58 @@ We are a diverse group of researchers, who all bring our own specialties and ski
 :::
 ::::
 
+:::: columns
+::: {.column width="20%"}
+![](headshots/tfv.jpg){width=90%}
+:::
 
+::: {.column width="80%"}
+[**Tibo F. Verburg**]{style="font-size: 120%;"}\
+[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
 
+[Coming from a background in technology and sustainability, Tibo is doing his PhD on the environmental impact of kidney replacment therapy. His broad understanding of the topic offers him a unique perspective on kidney replacement therapy.]{style="font-size: 80%;"}
+:::
+::::
 
+### Students
+:::: columns
+::: {.column width="20%"}
+![](headshots/.jpg){width=90%}
+:::
+
+::: {.column width="80%"}
+[**Sam ten Berge**]{style="font-size: 120%;"}\
+[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
+
+[Sam is doing her MSc in Epidemiology at the University of Utrecht. In light of that, she is doing her thesis with our group on cluster analyses to phenotype patients with chronic kidney disease.]{style="font-size: 80%;"}
+:::
+::::
+
+:::: columns
+::: {.column width="20%"}
+![](headshots/.jpg){width=90%}
+:::
+
+::: {.column width="80%"}
+[**Juras J. J. Huijben**]{style="font-size: 120%;"}\
+[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
+
+[Juras is nearing the end of his medical training. To also get a taste of the scientific side of medicine, he is working with us on better quantifying the effectiveness of haemodiafiltration.]{style="font-size: 80%;"}
+:::
+::::
+
+## Prevous members
+:::: columns
+::: {.column width="15%"}
+![](headshots/cpp.jpg){width=90%}
+:::
+
+::: {.column width="85%"}
+[**Cindy P. Porras**]{style="font-size: 90%;"}\
+[*ORCID: [0000-0001-7692-9164](https://orcid.org/0000-0001-7692-9164)*]{style="font-size: 80%;"}\
+[Cindy performed here thesis with us on sex differences in peripheral arterial disease and the interplay between heart failure and kidney disease.]{style="font-size: 75%;"}
+:::
+::::
 
 
 
