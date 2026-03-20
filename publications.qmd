@@ -1,0 +1,25 @@
+---
+title: "Academic publications"
+toc: true
+---
+
+### Long-term outcomes after acute kidney injury
+|Topic|Summary|More|
+|-|-|-|
+
+### Cardiovascular risk management in CKD
+|Topic|Summary|More|
+|-|-|-|
+
+### Haemodiafiltration as alternative to haemodialysis
+|Topic|Summary|More|
+|-|-|-|
+
+### Personalised care for kidney transplant recipients
+|Topic|Summary|More|
+|-|-|-|
+
+### Interplay between the environment and kidney disease
+|Topic|Summary|More|
+|-|-|-|
+|[Residential environmental factors and kidney function]{style="font-size: 75%;"}|[We investigated whether air pollution and how walkable a neighborhood is affecting the kidney function of older adults in the Netherlands. The results were inconsistent: while from one cohort we found that higher levels of air pollution were linked to poorer kidney function, other data showed no clear connection. Similarly, living in an easily walkable neighborhood did not show a clear impact on kidney function. Hence, larger studies with a longer  follow-up are needed before we can give a definitive answer on how environmental factors influence kidney health.]{style="font-size: 75%;"}|[[Link](https://doi.org/10.1016/j.envpol.2026.127917)]{style="font-size: 75%;"}|

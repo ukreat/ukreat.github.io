@@ -13,7 +13,7 @@ website:
         text: Meet the team
       - href: projects.qmd
         text: Projects
-      - href: output.qmd
+      - href: highlights.qmd
         text: Output
       - href: blog/index.qmd
         text: Blog
@@ -28,14 +28,23 @@ website:
 
   sidebar:
     - title: "Resources"
-      style: "docked"
+      style: "floating"
       contents:
         - resources.qmd
-        - k-journals.qmd
-        - g-journals.qmd
-        - c-journals.qmd
-        - d-journals.qmd
-        - e-journals.qmd
+        - section: "Journals"
+          contents:
+          - k-journals.qmd
+          - g-journals.qmd
+          - c-journals.qmd
+          - d-journals.qmd
+          - e-journals.qmd
+    - title: "Output"
+      style: "floating"
+      contents:
+        - "highlights.qmd" 
+        - "publications.qmd"
+        - "other_media.qmd"
+        - "theses.qmd"
 
 format:
   html:

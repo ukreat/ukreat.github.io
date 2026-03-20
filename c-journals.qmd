@@ -1,5 +1,5 @@
 ---
-title: "Cardiovascular journals"
+title: "Cardiovascular"
 ---
 
 *Last updated: [x]*

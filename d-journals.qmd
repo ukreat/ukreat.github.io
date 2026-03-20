@@ -1,5 +1,5 @@
 ---
-title: "Diabetes journals"
+title: "Diabetes"
 ---
 
 *Last updated: [x]*

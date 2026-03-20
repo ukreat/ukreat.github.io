@@ -1,0 +1,7 @@
+---
+title: "Non-academic publications"
+---
+
+|Topic|Summary|More|
+|-|-|-|
+|[Long-term risks of AKI [Dutch]]{style="font-size: 75%;"}|[Acute nierschade treft jaarlijks tienduizenden ziekenhuispatiënten in Nederland. Dit is zeer schadelijk voor het lichaam en kan mogelijk leiden tot onomkeerbare, chronische nierschade (CKD). Tot nu toe werd aangenomen dat een kortdurende AKI (< 3 dagen) weinig blijvende gevolgen had, maar recent onderzoek vtoont aan dat zelfs kortdurende episodes van AKI het risico op CKD verhogen.]{style="font-size: 75%;"}|[[Link](https://nierstichting.nl/nieuws/ook-milde-of-kortdurende-aki-vergroot-risico-op-chronische-nierschade)]{style="font-size: 75%;"}|
