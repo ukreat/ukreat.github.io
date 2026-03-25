@@ -122,7 +122,7 @@ title: "Meet the team"
 :::
 ::::
 
-## Prevous members
+## Previous members
 :::: columns
 ::: {.column width="15%"}
 ![](headshots/cpp.jpg){width=90%}

@@ -193,7 +193,7 @@ Robin is working together with Roemer to get this research line up and running, 
 :::::
 
 ## Interplay between the environment and kidney disease
-Environmental factors such as polluation may lead to kidney disease. Conversely, kidney replacement therapy has a large environmental impact as a result of the required water use and high throughput of materials (such as dialysate). This project focusses on better understanding the effects of both the environment on kidney disease and of kidney disease on the environment.
+Environmental factors such as pollution may lead to kidney disease. Conversely, kidney replacement therapy has a large environmental impact as a result of the required water use and high throughput of materials (such as dialysate). This project focusses on better understanding the effects of both the environment on kidney disease and of kidney disease on the environment.
 
 #### People working on this
 ::::: {.panel-tabset}

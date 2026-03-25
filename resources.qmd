@@ -9,6 +9,7 @@ This page contains several subpages with relevant resources. Additionally, the b
 |------|-------|
 |[Logo](https://github.com/ukreat/ukreat.github.io/tree/main/theme/logo)| Light- and dark-theme logos of U-KREAT |
 |[Powerpoint](https://github.com/ukreat/ukreat.github.io/raw/refs/heads/main/theme/ukreat.potx)^a^| Powerpoint template of the U-KREAT team |
+|[Portrait poster (A0)](https://github.com/ukreat/ukreat.github.io/raw/refs/heads/main/theme/ukreat_a0_portrait.potx)^a^| U-KREAT template for a portrait-oriented A0-sized poster|
 |[Style](theme/style.qmd)| Information on colour palette and font of U-KREAT |
 |[QR code](https://github.com/ukreat/ukreat.github.io/tree/main/theme/qr-code.png)| QR code linking to U-KREAT website |
 
