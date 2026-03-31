@@ -1,10 +1,8 @@
 |Date, Time                 |Type             |Title            |Notes                                     |
 |---------------------------|-----------------|-----------------|------------------------------------------|
-|20-Mar-2026, 13:00         |Defence          |[Impact of the COVID-19 pandemic on patients with advanced chronic kidney disease: An epidemiological, clinical and psychosocial perspective](https://www.maastrichtuniversity.nl/events/phd-defence-pim-bouwmans)|Pim Bouwmans (MUMC+)
-|30-Mar-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |**Talk:** Julia on CVRM trial eligility rates in UMC Utrecht CKD patients |
-|07-Apr-2026                |Conference       |[Niercongres](https://nierstichting.nl/niercongres)     ||
+|02-Apr-2026                |Conference       |PLAN day         |                                           |
+|07-Apr-2026                |Conference       |[Niercongres](https://nierstichting.nl/niercongres)|   |
 |13-Apr-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |**Talk:** Sanne on nPCR differences between HDF and HD|
-|27-Apr-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |11-May-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |25-May-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |03-Jun-2026 to 07-Jun-2026 |Conference       |[ERA](https://www.era-online.org/events/glasgow-2026/)              |                                          |
@@ -12,6 +10,7 @@
 |18-Jun-2026 to 19-Jun-2026 |Conference       |[DCVA-NLHI](https://congress2026.heart-institute.nl/)     |                                          |
 |22-Jun-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |26-Jun-2026                |Conference       |New Kids on the Block|                                      |
+|26-Jun-2026                |Conference       |TCU Research & Innovation symposium|                        |
 |30-Jun-2026, 12:15         |Defence          |Improving patient-centered care: focusing on patients and their caregivers|Esmee Driehuis (UMCU)
 |06-Jul-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |20-Jul-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
