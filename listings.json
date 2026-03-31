@@ -1,10 +1,10 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/posts/proefschrift_rjj/index.html",
-      "/posts/welkom/index.html",
-      "/posts/welcome/index.html"
+      "/blog/posts/proefschrift_rjj/index.html",
+      "/blog/posts/welkom/index.html",
+      "/blog/posts/welcome/index.html"
     ]
   }
 ]
