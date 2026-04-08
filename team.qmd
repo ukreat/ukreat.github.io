@@ -32,19 +32,6 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/jmtc.jpg){width=90%}
-:::
-
-::: {.column width="80%"}
-[**Julia M.T. Colombijn**]{style="font-size: 120%;"}\
-[*ORCID: [0000-0002-9022-5937](https://orcid.org/0000-0002-9022-5937)*]{style="font-size: 90%;"}
-
-[Julia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.]{style="font-size: 80%;"}
-:::
-::::
-
-:::: columns
-::: {.column width="20%"}
 ![](headshots/dmjv.jpg){width=90%}
 :::
 
@@ -122,8 +109,13 @@ title: "Meet the team"
 :::
 ::::
 
+:::: columns
+::: {.column width="20%"}
+![](headshots/.jpg){width=90%}
+:::
+
 ::: {.column width="80%"}
-[**Juras J. J. Huijben**]{style="font-size: 120%;"}\
+[**Tanja**]{style="font-size: 120%;"}\
 [*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
 
 [As part of her medical training, Tanja is doing an internship with Sanne, in which she is studying flow in incremental dialysis.]{style="font-size: 80%;"}
@@ -143,7 +135,18 @@ title: "Meet the team"
 :::
 ::::
 
+:::: columns
+::: {.column width="15%"}
+![](headshots/jmtc.jpg){width=90%}
+:::
 
+::: {.column width="80%"}
+[**Julia M.T. Colombijn**]{style="font-size: 90%;"}\
+[*ORCID: [0000-0002-9022-5937](https://orcid.org/0000-0002-9022-5937)*]{style="font-size: 80%;"}
+
+[Julia her PhD research focused on polypharmacy in individuals with chronic kidney disease and the representation of these people in landmark trials and guideline evidence.]{style="font-size: 75%;"}
+:::
+::::
 
 
 

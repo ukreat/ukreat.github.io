@@ -5,7 +5,7 @@ title: "Kidney"
 *Last updated: 2026-02-11*
 
 |Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
-|-------------------------|--------|-------------------|---------------|---------------|---------------|----|
+|-----|---|--|-|---|-|-|
 |Am J Kidney Dis          |USD 3200|NKF (20%)|100%|USD 75/page; USD 600 for colour figures|3500|[URL](https://www.ajkd.org/content/authorinfo)|
 |Am J Nephrol             |EUR 3790|*None*|100%|EUR 540/page after 20k characters|5000|[URL](https://link.springer.com/journal/12882/submission-guidelines/research-article)|
 |BMC Nephrol              |EUR 2790|*None*|0%|*None*|*None*|[URL](https://link.springer.com/journal/12882/submission-guidelines)|

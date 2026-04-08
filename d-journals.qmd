@@ -5,7 +5,7 @@ title: "Diabetes"
 *Last updated: [x]*
 
 |Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
-|-------------------------|--------|-------------------|---------------|---------------|---------------|----|
+|-----|---|--|-|---|-|-|
 
 
 

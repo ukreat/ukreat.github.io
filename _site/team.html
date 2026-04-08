@@ -366,15 +366,6 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="columns">
 <div class="column" style="width:20%;">
-<p><img src="headshots/jmtc.jpg" class="img-fluid" style="width:90.0%"></p>
-</div><div class="column" style="width:80%;">
-<p><span style="font-size: 120%;"><strong>Julia M.T. Colombijn</strong></span><br>
-<span style="font-size: 90%;"><em>ORCID: <a href="https://orcid.org/0000-0002-9022-5937">0000-0002-9022-5937</a></em></span></p>
-<p><span style="font-size: 80%;">Julia is a PhD student currently finishing her medical studies. Her PhD research focuses on polypharmacy in individuals with chronic kidney disease. Besides elucidating the extent of polypharmacy in this population, she has also studied the lack of evidence for multiple common cardiorenal protective drugs and has further investigated their use in this population.</span></p>
-</div>
-</div>
-<div class="columns">
-<div class="column" style="width:20%;">
 <p><img src="headshots/dmjv.jpg" class="img-fluid" style="width:90.0%"></p>
 </div><div class="column" style="width:80%;">
 <p><span style="font-size: 120%;"><strong>Denise M.J. Veltkamp</strong></span><br>
@@ -429,12 +420,15 @@ ul.task-list li input[type="checkbox"] {
 <p><span style="font-size: 80%;">Juras is nearing the end of his medical training. To also get a taste of the scientific side of medicine, he is working with us on better quantifying the effectiveness of haemodiafiltration.</span></p>
 </div>
 </div>
-<div class="column" style="width:80%;">
-<p><span style="font-size: 120%;"><strong>Juras J. J. Huijben</strong></span><br>
+<div class="columns">
+<div class="column" style="width:20%;">
+<p><img src="headshots/.jpg" class="img-fluid" style="width:90.0%"></p>
+</div><div class="column" style="width:80%;">
+<p><span style="font-size: 120%;"><strong>Tanja</strong></span><br>
 <span style="font-size: 90%;"><em>ORCID: <a href="https://orcid.org/"><em>No ORCID</em></a></em></span></p>
 <p><span style="font-size: 80%;">As part of her medical training, Tanja is doing an internship with Sanne, in which she is studying flow in incremental dialysis.</span></p>
 </div>
-<p>::::</p>
+</div>
 </section>
 </section>
 <section id="previous-members" class="level2">
@@ -446,6 +440,15 @@ ul.task-list li input[type="checkbox"] {
 <p><span style="font-size: 90%;"><strong>Cindy P. Porras</strong></span><br>
 <span style="font-size: 80%;"><em>ORCID: <a href="https://orcid.org/0000-0001-7692-9164">0000-0001-7692-9164</a></em></span><br>
 <span style="font-size: 75%;">Cindy performed here thesis with us on sex differences in peripheral arterial disease and the interplay between heart failure and kidney disease.</span></p>
+</div>
+</div>
+<div class="columns">
+<div class="column" style="width:15%;">
+<p><img src="headshots/jmtc.jpg" class="img-fluid" style="width:90.0%"></p>
+</div><div class="column" style="width:80%;">
+<p><span style="font-size: 90%;"><strong>Julia M.T. Colombijn</strong></span><br>
+<span style="font-size: 80%;"><em>ORCID: <a href="https://orcid.org/0000-0002-9022-5937">0000-0002-9022-5937</a></em></span></p>
+<p><span style="font-size: 75%;">Julia her PhD research focused on polypharmacy in individuals with chronic kidney disease and the representation of these people in landmark trials and guideline evidence.</span></p>
 </div>
 </div>
 
@@ -538,7 +541,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/ukreat\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -5,7 +5,7 @@ title: "Epidemiology"
 *Last updated: 2026-02-19*
 
 |Journal                  |APC cost|Membership discount|Covered by UMCU|Additonal costs|Max. word count|More|
-|-------------------------|--------|-------------------|---------------|---------------|---------------|----|
+|-----|---|--|-|---|-|-|
 |Am J Epidemiol         |USD 5099|SER (20%)|100%|USD 95/page + taxes|4000|[Link](https://academic.oup.com/aje/pages/author-guidelines)
 |Ann Epidemiol          |USD 3630|*None*|100%|*None*|3000|[Link](https://www.sciencedirect.com/journal/annals-of-epidemiology/publish/guide-for-authors)
 |Epidemiol              |USD 4763|*None*|100%|USD 65/page 5-7; USD 90/page 8+; USD 750 for first colour figure, USD 150/colour figure after|4000|[Link](https://edmgr.ovid.com/epid/accounts/ifauth.htm)
