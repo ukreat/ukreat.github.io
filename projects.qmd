@@ -15,7 +15,7 @@ Acute kidney injury is an impactful disease that may have long-lasting consequen
 ## Denise
 :::: columns
 ::: {.column width="20%"}
-![](headshots/dmjv.jpg){width=90%}
+![](images/headshots/dmjv.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -26,7 +26,7 @@ In this line of research, Denise is in the lead. She has written multiple papers
 ## Robin
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rwmv.jpeg){width=90%}
+![](images/headshots/rwmv.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -37,7 +37,7 @@ Robin is the principal investigator in this project. He ensures the project is h
 ## Roemer
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rjj.jpg){width=90%}
+![](images/headshots/rjj.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -57,7 +57,7 @@ Individuals with chronic kidney disease (CKD) receive a plethora of medications 
 ## Ellis
 :::: columns
 ::: {.column width="20%"}
-![](headshots/eo.jpg){width=90%}
+![](images/headshots/eo.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -68,7 +68,7 @@ Continuing on the work Julia has done, Ellis is investigating the utilisation of
 ## Sam
 :::: columns
 ::: {.column width="20%"}
-![](headshots/sb.jpeg){width=90%}
+![](images/headshots/sb.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -79,7 +79,7 @@ For her student thesis, Sam is supporting this project through identifixation of
 ## Roemer
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rjj.jpg){width=90%}
+![](images/headshots/rjj.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -90,7 +90,7 @@ Roemer is working together with Ellis to shape the different studies she is perf
 ## Robin
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rwmv.jpeg){width=90%}
+![](images/headshots/rwmv.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -109,7 +109,7 @@ Haemodialysis (HD) is a common dialysis modality, but many alternatives are imag
 ## Sanne
 :::: columns
 ::: {.column width="20%"}
-![](headshots/sr.jpg){width=90%}
+![](images/headshots/sr.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -120,7 +120,7 @@ Sanne is combing her clinical knowledge with her research skills to investigate 
 ## Juras
 :::: columns
 ::: {.column width="20%"}
-![](headshots/.jpg){width=90%}
+![](images/headshots/placeholder.png){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -131,18 +131,18 @@ To better understand the possible mechanisms through which HDF can lead to an im
 ## Tanja
 :::: columns
 ::: {.column width="20%"}
-![](headshots/.jpg){width=90%}
+![](images/headshots/tr.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
-
+In order to better understand the benefits and risks of incremental dialysis, Tanja is studying the risk of vascular overfilling and its associated clinical parameters and symptom burden in individuals performing twice-weekly HD.
 :::
 ::::
 
 ## Robin
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rwmv.jpeg){width=90%}
+![](images/headshots/rwmv.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -153,7 +153,7 @@ Robin has done multiple projects on HDF and has now connected global collaborato
 ## Roemer
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rjj.jpg){width=90%}
+![](images/headshots/rjj.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -172,7 +172,7 @@ Kidney transplant recipients are often treated through a 'one-size-fits-all' per
 ## Roemer
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rjj.jpg){width=90%}
+![](images/headshots/rjj.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -183,7 +183,7 @@ Roemer is using his previous experience in working on kidney disease to set-up t
 ## Robin
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rwmv.jpeg){width=90%}
+![](images/headshots/rwmv.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -200,7 +200,7 @@ Environmental factors such as pollution may lead to kidney disease. Conversely, 
 ## Tibo
 :::: columns
 ::: {.column width="20%"}
-![](headshots/tfv.jpg){width=90%}
+![](images/headshots/tfv.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -211,7 +211,7 @@ Tibo is leading this research on sustainable innovation for kidney care. Leverag
 ## Robin
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rwmv.jpeg){width=90%}
+![](images/headshots/rwmv.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}

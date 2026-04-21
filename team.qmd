@@ -6,7 +6,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rwmv.jpeg){width=90%}
+![](images/headshots/rwmv.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -19,7 +19,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/rjj.jpg){width=90%}
+![](images/headshots/rjj.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -32,7 +32,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/dmjv.jpg){width=90%}
+![](images/headshots/dmjv.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -45,7 +45,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/sr.jpg){width=90%}
+![](images/headshots/sr.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -58,7 +58,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/eo.jpg){width=90%}
+![](images/headshots/eo.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -71,7 +71,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/tfv.jpg){width=90%}
+![](images/headshots/tfv.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -85,7 +85,7 @@ title: "Meet the team"
 ### Students
 :::: columns
 ::: {.column width="20%"}
-![](headshots/sb.jpeg){width=90%}
+![](images/headshots/sb.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -98,7 +98,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/.jpg){width=90%}
+![](images/headshots/placeholder.png){width=90%}
 :::
 
 ::: {.column width="80%"}
@@ -111,11 +111,11 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](headshots/.jpg){width=90%}
+![](images/headshots/tr.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}
-[**Tanja**]{style="font-size: 120%;"}\
+[**Tanja Rajakumar**]{style="font-size: 120%;"}\
 [*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
 
 [As part of her medical training, Tanja is doing an internship with Sanne, in which she is studying flow in incremental dialysis.]{style="font-size: 80%;"}
@@ -125,7 +125,7 @@ title: "Meet the team"
 ## Previous members
 :::: columns
 ::: {.column width="15%"}
-![](headshots/cpp.jpg){width=90%}
+![](images/headshots/cpp.jpg){width=90%}
 :::
 
 ::: {.column width="85%"}
@@ -137,7 +137,7 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="15%"}
-![](headshots/jmtc.jpg){width=90%}
+![](images/headshots/jmtc.jpg){width=90%}
 :::
 
 ::: {.column width="80%"}

@@ -1,6 +1,5 @@
 |Date, Time                 |Type             |Title            |Notes                                     |
 |---------------------------|-----------------|-----------------|------------------------------------------|
-|13-Apr-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |**Talk:** Sanne on nPCR differences between HDF and HD|
 |04-May-2026, TBD           |Biweekly meeting |Café Creatinine  |**Talk:** Tanja on the results of the FLOW study (incremental dialysis)|
 |11-May-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |25-May-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
