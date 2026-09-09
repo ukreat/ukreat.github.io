@@ -1,10 +1,10 @@
-|Date, Time                 |Type             |Title            |Notes                                     |
+|Date, Time (CEST)          |Type             |Title            |Notes                                     |
 |---------------------------|-----------------|-----------------|------------------------------------------|
 |14-Sep-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |*Talk:* Marie Claire: an informal introduction|
 |28-Sep-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |09-Oct-2026, 09:00-17:00   |Conference       |[NFN Fall Symposium](https://www.nefro.nl/agendapunt/nfn-fall-symposium-2/)||
 |12-Oct-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |Mock defence Cindy Porras                 |
-|20-Oct-2026, *TBD*         |Seminar          |ASN RRI-symposium|Roemer will give a talk on target trial emulation|
+|20-Oct-2026, 21:10-21:25   |Seminar          |ASN RRI-symposium|Roemer will give a talk on target trial emulation|
 |26-Oct-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |*Talk:* Rabea on clustering studies in acute kidney injury|
 |27-Oct-2026, 16:15-17:00   |Defence          |Public defence Cindy Porras||
 |30-Oct-2026, 09:00-17:00   |Conference       |TCU Research & Innovation Symposium|Roemer will give a talk on ITEs in KTx|
