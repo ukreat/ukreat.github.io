@@ -1,17 +1,13 @@
 |Date, Time                 |Type             |Title            |Notes                                     |
 |---------------------------|-----------------|-----------------|------------------------------------------|
-|22-Jun-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |*Talk:* Denise on modelling kidney disease (either longitudinal trajectories or eGFR equations)|
-|26-Jun-2026                |Conference       |[New Kids on the Block](https://www.linkedin.com/posts/rikoldeengberink_onderzoek-research-nier-activity-7447649322613006336-cEoz)|                                      |
-|26-Jun-2026                |Conference       |TCU Research & Innovation symposium|                        |
-|30-Jun-2026, 12:15         |Defence          |Improving patient-centered care: focusing on patients and their caregivers|Esmee Driehuis (UMCU)
-|06-Jul-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
-|20-Jul-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
-|03-Aug-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
-|17-Aug-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
-|31-Aug-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
-|14-Sep-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|14-Sep-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |*Talk:* Marie Claire: an informal introduction|
 |28-Sep-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
-|12-Oct-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
+|09-Oct-2026, 09:00-17:00   |Conference       |[NFN Fall Symposium](https://www.nefro.nl/agendapunt/nfn-fall-symposium-2/)||
+|12-Oct-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |Mock defence Cindy Porras                 |
+|20-Oct-2026, *TBD*         |Seminar          |ASN RRI-symposium|Roemer will give a talk on target trial emulation|
+|26-Oct-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |*Talk:* Rabea on clustering studies in acute kidney injury|
+|27-Oct-2026, 16:15-17:00   |Defence          |Public defence Cindy Porras||
+|30-Oct-2026, 09:00-17:00   |Conference       |TCU Research & Innovation Symposium|Roemer will give a talk on ITEs in KTx|
 |09-Nov-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |23-Nov-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
 |07-Dec-2026, 10:00-11:00   |Biweekly meeting |Café Creatinine  |                                          |
