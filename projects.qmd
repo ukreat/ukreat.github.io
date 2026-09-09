@@ -7,22 +7,63 @@ We have a number of overarching research lines, within which we perform most of 
 \
 \
 
+## Elucidating the cardio-kidney-metabolic axis
+Cardiovascular disease, metabolic disease, and kidney disease often occur together. All three axes are generally characterised by a single-discipline approach. Moreover, individuals with cardio-kidney-metabolic disease tend to receive a plethora of medication, leading to high rates of polypharmacy. In this line of research, we aim to provide evidence for personalised care and tailored treatment regimens across the axes.
+
+#### People working on this
+::::: {.panel-tabset}
+## Ellis
+:::: columns
+::: {.column width="20%"}
+![](images/headshots/eo.jpg){width=90%}
+:::
+
+::: {.column width="80%"}
+Continuing on the work Julia has done, Ellis is investigating the utilisation of guideline-recommended drugs throughout the hospital. Additionally, she will take the lead on multiple projects investigating the safety and effectiveness of different drugs in individuals with CKD.
+:::
+::::
+
+## Marie Claire
+:::: columns
+::: {.column width="20%"}
+![](images/headshots/placeholder.png){width=90%}
+:::
+
+::: {.column width="80%"}
+Marie Claire is investigating the use of the Kidney Failure Risk Equation in routine clinical practice. This prediction model predicts the risk of kidney failure (specifically receiving kidney replacement therapy), which helps individuals throughout the healthcare system to get a timely referral to a nephrologist, start the decision-making process for kidney replacement therapy, and provide vascular access in time, if required.
+:::
+::::
+
+## Roemer
+:::: columns
+::: {.column width="20%"}
+![](images/headshots/rjj.jpg){width=90%}
+:::
+
+::: {.column width="80%"}
+Roemer is providing the projects' methodology advances and providing quality checks on the way data is used and analysed.
+:::
+::::
+
+## Robin
+:::: columns
+::: {.column width="20%"}
+![](images/headshots/rwmv.jpeg){width=90%}
+:::
+
+::: {.column width="80%"}
+Robin has long been working on this. He ensures the project's long-term sustainability, gives direction where needed, and connects the team members with the right collaborators.
+:::
+::::
+:::::
+\
+\
+
 ## Long-term outcomes after acute kidney injury
 Acute kidney injury is an impactful disease that may have long-lasting consequences affecting the cardio-kidney axis. However, these long-term outcomes remain difficult to investigate due to individual heterogeneity in individuals with acute kidney injury, difficulty in defining acute kidney injury, and reliance on smaller datasets. In this research line, we aim to overcome these shortcomings to elucidate the long-term outcomes after acute kidney injury, both through a predicitve lens and a relational lens. 
 
 #### People working on this
 ::::: {.panel-tabset}
-## Denise
-:::: columns
-::: {.column width="20%"}
-![](images/headshots/dmjv.jpg){width=90%}
-:::
-
-::: {.column width="80%"}
-In this line of research, Denise is in the lead. She has written multiple papers on the topic and more analyses are underway. She is responsible for coming up with new avenues within the project, writing papers and performing analyses.
-:::
-::::
-
 ## Robin
 :::: columns
 ::: {.column width="20%"}
@@ -44,57 +85,15 @@ Robin is the principal investigator in this project. He ensures the project is h
 Roemer provides assistance from the side line based on his experience in investigating acute kidney injury, helping with programming and offering methdological support where needed.
 :::
 ::::
-:::::
-\
-\
 
-## Cardiovascular risk management in CKD
-Individuals with chronic kidney disease (CKD) receive a plethora of medications and the majority of treatment regimens can be categorised as polypharmacy. However, for most medications, evidence on effectiveness and safety in the CKD population is limited. Given the altered drug metabolism and shorter life expectancy of these people, it is of paramount importance to reassess safety and effectiveness of medications in them. Witholding or deprescribing ineffective or unsafe treatment can help reduce medication-related disease burden and avoid adverse side effects. As randomised trials are rarely feasible in this population, we approach this using modern epidemiological methods.
-
-
-#### People working on this
-::::: {.panel-tabset}
-## Ellis
+## Rabia
 :::: columns
 ::: {.column width="20%"}
-![](images/headshots/eo.jpg){width=90%}
+![](images/headshots/placeholder.png){width=90%}
 :::
 
 ::: {.column width="80%"}
-Continuing on the work Julia has done, Ellis is investigating the utilisation of guideline-recommended drugs throughout the hospital. Additionally, she will take the lead on multiple projects investigating the safety and effectiveness of different drugs in individuals with CKD.
-:::
-::::
-
-## Sam
-:::: columns
-::: {.column width="20%"}
-![](images/headshots/sb.jpeg){width=90%}
-:::
-
-::: {.column width="80%"}
-For her student thesis, Sam is supporting this project through identifixation of distinct clusters of individuals with chronic kidney disease. These clusters may present readily applicable subgroups in clinical care in which treatment effects and prognosis regarding cardiovascular effects differ.
-:::
-::::
-
-## Roemer
-:::: columns
-::: {.column width="20%"}
-![](images/headshots/rjj.jpg){width=90%}
-:::
-
-::: {.column width="80%"}
-Roemer is working together with Ellis to shape the different studies she is performing, additionally strengthening the projects' methodology and providing quality checks on the way data is used and analysed.
-:::
-::::
-
-## Robin
-:::: columns
-::: {.column width="20%"}
-![](images/headshots/rwmv.jpeg){width=90%}
-:::
-
-::: {.column width="80%"}
-Robin has long been working on this, being the supervisor of both Julia and Ellis. He ensures the project's long-term sustainability, gives direction where needed, and connects the team members with the right collaborators.
+Rabia is investigating heterogeneity in acute kidney injury patients through clustering methods for his master thesis.
 :::
 ::::
 :::::
@@ -125,17 +124,6 @@ Sanne is combing her clinical knowledge with her research skills to investigate 
 
 ::: {.column width="80%"}
 To better understand the possible mechanisms through which HDF can lead to an improved survival, it is essential to understand the quality of the HDF sessions. Juras is investigating whether the quality of HDF sessions can be quantified through a new metric, similar to Kt/V for HD.
-:::
-::::
-
-## Tanja
-:::: columns
-::: {.column width="20%"}
-![](images/headshots/tr.jpg){width=90%}
-:::
-
-::: {.column width="80%"}
-In order to better understand the benefits and risks of incremental dialysis, Tanja is studying the risk of vascular overfilling and its associated clinical parameters and symptom burden in individuals performing twice-weekly HD.
 :::
 ::::
 

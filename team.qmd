@@ -32,19 +32,6 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](images/headshots/dmjv.jpg){width=90%}
-:::
-
-::: {.column width="80%"}
-[**Denise M.J. Veltkamp**]{style="font-size: 120%;"}\
-[*ORCID: [0000-0001-9914-7827](https://orcid.org/0000-0001-9914-7827)*]{style="font-size: 90%;"}
-
-[Denise is a medical doctor whose research focuses on long-term outcomes after acute kidney injury. To get a broad overview, she has performed multiple meta-analyses and clustering studies, and worked on developing prediction models to get personalised insights in these long-term outcomes. Additionally, she has previously done research on the patient perspective in kidney transplantation.]{style="font-size: 80%;"}
-:::
-::::
-
-:::: columns
-::: {.column width="20%"}
 ![](images/headshots/sr.jpg){width=90%}
 :::
 
@@ -76,26 +63,26 @@ title: "Meet the team"
 
 ::: {.column width="80%"}
 [**Tibo F. Verburg**]{style="font-size: 120%;"}\
-[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
+[*ORCID: [0009-0007-4317-574X](https://orcid.org/)*]{style="font-size: 90%;"}
 
 [Coming from a background in technology and sustainability, Tibo is doing his PhD on the environmental impact of kidney replacment therapy. His broad understanding of the topic offers him a unique perspective on kidney replacement therapy.]{style="font-size: 80%;"}
 :::
 ::::
 
-### Students
 :::: columns
 ::: {.column width="20%"}
-![](images/headshots/sb.jpeg){width=90%}
+![](images/headshots/placeholder.png){width=90%}
 :::
 
 ::: {.column width="80%"}
-[**Sam ten Berge**]{style="font-size: 120%;"}\
+[**Marie Claire Rijken van Olst**]{style="font-size: 120%;"}\
 [*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
 
-[Sam is doing her MSc in Epidemiology at the University of Utrecht. In light of that, she is doing her thesis with our group on cluster analyses to phenotype patients with chronic kidney disease.]{style="font-size: 80%;"}
+[Marie Claire is a medical doctor doing her PhD on the Kidney Failure Risk Equation. She will look into how well it performs in a large regional hospital (Franciscus Gasthuis) and determine its actual impact in routine clinical care.]{style="font-size: 80%;"}
 :::
 ::::
 
+### Students
 :::: columns
 ::: {.column width="20%"}
 ![](images/headshots/placeholder.png){width=90%}
@@ -111,18 +98,42 @@ title: "Meet the team"
 
 :::: columns
 ::: {.column width="20%"}
-![](images/headshots/tr.jpg){width=90%}
+![](images/headshots/placeholder.png){width=90%}
 :::
 
 ::: {.column width="80%"}
-[**Tanja Rajakumar**]{style="font-size: 120%;"}\
+[**Rabia Mohammed Mohammed Al-Rabea**]{style="font-size: 120%;"}\
 [*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
 
-[As part of her medical training, Tanja is doing an internship with Sanne, in which she is studying flow in incremental dialysis.]{style="font-size: 80%;"}
+[Rabia is an MD studying Epidemiology at Utrecht University. He is performing his thesis with us on both the clinical and methodological aspects of clustering techniques for acute kidney injury.]{style="font-size: 80%;"}
 :::
 ::::
 
 ## Previous members
+:::: columns
+::: {.column width="15%"}
+![](images/headshots/dmjv.jpg){width=90%}
+:::
+
+::: {.column width="80%"}
+[**Denise M.J. Veltkamp**]{style="font-size: 90%;"}\
+[*ORCID: [0000-0001-9914-7827](https://orcid.org/0000-0001-9914-7827)*]{style="font-size: 80%;"}\
+[In her PhD, Denise focused on long-term outcomes after acute kidney injury, additionally using longitudinal clustering and prediction modelling to gain personalised insights.]{style="font-size: 75%;"}
+:::
+::::
+
+:::: columns
+::: {.column width="15%"}
+![](images/headshots/jmtc.jpg){width=90%}
+:::
+
+::: {.column width="80%"}
+[**Julia M.T. Colombijn**]{style="font-size: 90%;"}\
+[*ORCID: [0000-0002-9022-5937](https://orcid.org/0000-0002-9022-5937)*]{style="font-size: 80%;"}\
+[Julia her PhD research focused on polypharmacy in individuals with chronic kidney disease and the representation of these people in landmark trials and guideline evidence.]{style="font-size: 75%;"}
+:::
+::::
+
 :::: columns
 ::: {.column width="15%"}
 ![](images/headshots/cpp.jpg){width=90%}
@@ -135,19 +146,28 @@ title: "Meet the team"
 :::
 ::::
 
+### Previous students
 :::: columns
 ::: {.column width="15%"}
-![](images/headshots/jmtc.jpg){width=90%}
+![](images/headshots/sb.jpeg){width=90%}
 :::
 
 ::: {.column width="80%"}
-[**Julia M.T. Colombijn**]{style="font-size: 90%;"}\
-[*ORCID: [0000-0002-9022-5937](https://orcid.org/0000-0002-9022-5937)*]{style="font-size: 80%;"}
-
-[Julia her PhD research focused on polypharmacy in individuals with chronic kidney disease and the representation of these people in landmark trials and guideline evidence.]{style="font-size: 75%;"}
+[**Sam ten Berge**]{style="font-size: 90%;"}\
+[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 80%;"}\
+[Sam was a MSc Epidemiology student at the University of Utrecht. In light of that, she did her thesis with our group on cluster analyses to phenotype patients with chronic kidney disease.]{style="font-size: 75%;"}
 :::
 ::::
 
+:::: columns
+::: {.column width="15%"}
+![](images/headshots/tr.jpg){width=90%}
+:::
 
-
+::: {.column width="80%"}
+[**Tanja Rajakumar**]{style="font-size: 90%;"}\
+[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 80%;"}\
+[As part of her medical training, Tanja did an internship with Sanne, in which she studied flow in incremental dialysis.]{style="font-size: 75%;"}
+:::
+::::
 
