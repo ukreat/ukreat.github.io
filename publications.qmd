@@ -3,17 +3,25 @@ title: "Academic publications"
 toc: true
 ---
 
-### Long-term outcomes after acute kidney injury
+## Elucidating the cardio-kidney-metabolic axis
 
-### Cardiovascular risk management in CKD
+### Long-term outcomes after acute kidney injury
+|||
+|-|-------|
+|![](images/output/veltkamp-2026-clin_kidney_j.jpg){.lightbox}|[**Long-term risks of major adverse cardiovascular events after acute kidney injury: a systematic review and meta-analysis**]{style="font-size: 95%;"} <br> [By studying 54 studies that together comprised 1,261,090 individuals, we showed that the relative risk of cardiovascular events after acute kidney injury is severely elevated. Elevated risks remained across AKI stages and duration. More [here](https://doi.org/10.1093/ckj/sfag145)]{style="font-size: 85%;"} |
+: {tbl-colwidths="[20,80]"}
 
 ### Alternatives to standard-care haemodialysis
+|||
+|-|-------|
+|![](images/output/roos-2026-bmc_nephrol.jpg){.lightbox}|[**Study protocol for a target trial emulation: CHoosing the right diAlysis Modality in clinical PractIce: hemOdiafiltratioN or hemodialysis (CHAMPION)**]{style="font-size: 95%;"} <br> [We describe the protocol for an observational causal study that aims to investigate the effect of haemodiafiltration as compared to haemodialysis on several outcomes. Analytical details are outlined. More [here](https://doi.org/10.1186/s12882-026-05315-z)]{style="font-size: 85%;"} |
+: {tbl-colwidths="[20,80]"}
 
 ### Personalised care for kidney transplant recipients
 
 ### Interplay between the environment and kidney disease
 |||
-|-|----|
-|![](images/output/liang-2025-environ_pollut.jpg){.lightbox}|[**Associations of residential environmental factors with kidney function in Dutch older adults**]{style="font-size: 95%;"}\
-[We investigated whether air pollution and how walkable a neighborhood is affects the kidney function of older adults in the Netherlands. The results were inconsistent: while from one cohort we found that higher levels of air pollution were linked to poorer kidney function, other data showed no clear connection. Similarly, living in an easily walkable neighborhood did not show a clear impact on kidney function. Hence, larger studies with a longer  follow-up are needed before we can give a definitive answer on how environmental factors influence kidney health. More [here](https://doi.org/10.1016/j.envpol.2026.127917)]{style="font-size: 85%;"}|
+|-|-------|
+|![](images/output/liang-2025-environ_pollut.jpg){.lightbox}|[**Associations of residential environmental factors with kidney function in Dutch older adults**]{style="font-size: 95%;"} <br> [We investigated whether air pollution and how walkable a neighborhood is affects the kidney function of older adults in the Netherlands. The results were inconsistent and larger studies with a longer follow-up are needed before we can give a definitive answer. More [here](https://doi.org/10.1016/j.envpol.2026.127917)]{style="font-size: 85%;"} |
+: {tbl-colwidths="[20,80]"}
 
