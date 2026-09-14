@@ -1,0 +1,56 @@
+/* Tags */
+.dialysis {
+    border: #5C9AFF 1.5px solid;
+    border-radius: 7.5px;
+    color: black;
+    background-color: #A0C4FF;
+    font-size: 75%;
+}
+
+.aki {
+    border: #FF1F1F 1.5px solid;
+    border-radius: 7.5px;
+    color: black;
+    background-color: #FFADAD;
+    font-size: 75%;
+}
+
+.ckd {
+    border: #FFC6FF 1.5px solid;
+    border-radius: 7.5px;
+    color: black;
+    background-color: #FFC6FF;
+    font-size: 75%;
+}
+
+.ktx {
+    border: #6347FF 1.5px solid;
+    border-radius: 7.5px;
+    color: black;
+    background-color: #BDB2FF;
+    font-size: 75%;
+}
+
+.ckm {
+    border: #FFD6A5 1.5px solid;
+    border-radius: 7.5px;
+    color: black;
+    background-color: #FFD6A5;
+    font-size: 75%;
+}
+
+.eco {
+    border: #22CC00 1.5px solid;
+    border-radius: 7.5px;
+    color: black;
+    background-color: #CAFFBF;
+    font-size: 75%;
+}
+
+.methods {
+    border: #E0E000 1.5px solid;
+    border-radius: 7.5px;
+    color: black;
+    background-color: #FFFFFC;
+    font-size: 75%;
+}
