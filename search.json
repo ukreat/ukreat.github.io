@@ -226,7 +226,7 @@
     "href": "highlights.html",
     "title": "Highlights",
     "section": "",
-    "text": "Last updated on: 2026-09-10\nSince its formation in January 2026, the members of U-KREAT have published 5 papers directly related to U-KREAT. These are distributed across years and research lines as follows:\n\n# Load packages\npacman::p_load(\"dplyr\",     # Data wrangling\n               \"magrittr\",  # Efficient pipelines\n               \"tibble\",    # Better data frames\n               \"ggplot2\"    # Data visualisation\n)\n\n# Create data)\ndat_pubs &lt;- tibble(\n    # Year\n    year = c(rep(2026, 6)),\n    topic = rep(c(\"Acute kidney injury\", \"Chronic kidney disease\", \"Dialysis\", \"Kidney transplantation\", \"Cardio-kidney-metabolic syndrome\", \"Educational/methods\"), 1),\n    count = c(# 2026\n              1, 0, 1, 0, 1, 1)\n\n)\n\n\n\n\n Back to top",
+    "text": "Last updated on: 2026-09-15\nSince its formation in January 2026, the members of U-KREAT have published 5 papers directly related to U-KREAT. These are distributed across years and research lines as follows:\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top",
     "crumbs": [
       "Output",
       "Highlights"
