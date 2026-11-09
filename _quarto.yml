@@ -11,8 +11,8 @@ website:
     left:
       - href: team.qmd
         text: Meet the team
-      - href: projects.qmd
-        text: Projects
+      - href: research_lines.qmd
+        text: "Research lines"
       - href: highlights.qmd
         text: Output
       - href: blog/index.qmd
@@ -53,6 +53,8 @@ format:
       dark: [styles/ukreat, styles/theme_dark.scss]
     respect-user-color-scheme: true
     toc: true
+
+css: styles/styles.css
 
 
 

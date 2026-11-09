@@ -1,3 +1,67 @@
 ---
 title: "Highlights"
 ---
+
+*Last updated on: 2026-09-15*
+
+Since its formation in January 2026, the members of U-KREAT have published *6* papers directly related to U-KREAT. These are distributed across years and research lines as follows:
+
+```{r distribution}
+#| echo: false
+# Load packages
+pacman::p_load("dplyr",     # Data wrangling
+               "magrittr",  # Efficient pipelines
+               "tibble",    # Better data frames
+               "ggplot2"    # Data visualisation
+)
+
+# Create data
+dat_pubs <- tibble(
+    # Year
+    year = c(rep(2026, 7)),
+    topic = rep(c("Acute kidney injury", "Chronic kidney disease", "Dialysis", "Kidney transplantation", "Cardio-kidney-metabolic syndrome", "Green kidney care", "Educational/methods"), 1),
+    count = c(# 2026
+              1, 0, 2, 0, 1, 1, 1
+              )
+) %>%
+    # Set topic to factor
+    mutate(as.factor(topic))
+
+# Create figure
+ggplot(dat_pubs,
+       aes(x = as.factor(year),
+           y = count,
+           fill = topic)) +
+    # Geometries
+    geom_bar(position = "stack",
+             stat = "identity") +
+    # Scalings
+    scale_x_discrete(name = "Year") +
+    scale_y_continuous(name = "Number of publications",
+                       expand = c(0, 0)) +
+    scale_fill_manual(values = c("#8ECAE6", "#219EBC", "#126782", "#023047", "#FFB703", "#FD9E02", "#FB8500")) +
+    # Guides & labels
+    guides(fill = guide_legend(position = "bottom",
+                               nrow = 3)) +
+    labs(title = "Publication count and distribution of topics",
+         subtitle = "Topics represent primary topic of paper") +
+    # Aesthetics
+    theme(plot.background = element_rect(fill = "#EDF6F9",
+                                         colour = "transparent"),
+          plot.title = element_text(face = "bold",
+                                    hjust = 0.5),
+          plot.subtitle = element_text(face = "italic",
+                                       hjust = 0.5,
+                                       size = 10),
+          panel.background = element_blank(),
+          panel.grid.minor = element_blank(),
+          panel.grid.major.x = element_blank(),
+          panel.grid.major.y = element_line(linetype = "dashed",
+                                            colour = "#557A8B",
+                                            linewidth = 0.1),
+          axis.line = element_line(),
+          legend.title = element_blank(),
+          legend.background = element_blank(),
+          )
+
+```

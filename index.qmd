@@ -25,4 +25,4 @@ We are located at the UMC Utrecht. Our team is embedded in the Department of Nep
 
 This collaboration gives us access both to direct clinical involvement and to the high-quality research infrastructure of UPOD.
 
-Want to know more? Check out our [currently running projects](projects.qmd) and [previous output](output.qmd).
+Want to know more? Check out our [currently running projects](research_lines.qmd) and [previous output](highlights.qmd).
