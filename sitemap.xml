@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ukreat.github.io/blog.html</loc>
-    <lastmod>2026-01-06T13:11:05.747Z</lastmod>
+    <lastmod>2026-11-10T07:33:36.897Z</lastmod>
   </url>
   <url>
     <loc>https://ukreat.github.io/resources.html</loc>
@@ -29,40 +29,48 @@
     <lastmod>2026-05-07T12:14:03.656Z</lastmod>
   </url>
   <url>
-    <loc>https://ukreat.github.io/blog/posts/proefschrift_rjj/index.html</loc>
-    <lastmod>2026-03-31T12:08:29.805Z</lastmod>
+    <loc>https://ukreat.github.io/blog/posts/ctc2026/index.html</loc>
+    <lastmod>2026-11-09T15:23:38.135Z</lastmod>
   </url>
   <url>
-    <loc>https://ukreat.github.io/e-journals.html</loc>
-    <lastmod>2026-05-07T08:30:40.403Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ukreat.github.io/team.html</loc>
-    <lastmod>2026-10-08T09:11:59.624Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ukreat.github.io/d-journals.html</loc>
-    <lastmod>2026-05-07T08:30:42.596Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ukreat.github.io/contact.html</loc>
-    <lastmod>2026-04-21T07:24:01.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ukreat.github.io/research_lines.html</loc>
-    <lastmod>2026-10-08T09:12:32.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ukreat.github.io/c-journals.html</loc>
-    <lastmod>2026-05-07T08:30:53.286Z</lastmod>
+    <loc>https://ukreat.github.io/blog/posts/era2026/index.html</loc>
+    <lastmod>2026-11-09T15:22:02.460Z</lastmod>
   </url>
   <url>
     <loc>https://ukreat.github.io/index.html</loc>
     <lastmod>2026-09-14T14:59:35.290Z</lastmod>
   </url>
   <url>
-    <loc>https://ukreat.github.io/blog/posts/era2026/index.html</loc>
-    <lastmod>2026-07-20T07:07:41.213Z</lastmod>
+    <loc>https://ukreat.github.io/c-journals.html</loc>
+    <lastmod>2026-05-07T08:30:53.286Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ukreat.github.io/research_lines.html</loc>
+    <lastmod>2026-10-08T09:12:32.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ukreat.github.io/theses.html</loc>
+    <lastmod>2026-11-10T07:28:18.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ukreat.github.io/contact.html</loc>
+    <lastmod>2026-04-21T07:24:01.769Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ukreat.github.io/d-journals.html</loc>
+    <lastmod>2026-05-07T08:30:42.596Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ukreat.github.io/team.html</loc>
+    <lastmod>2026-11-09T15:50:18.495Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ukreat.github.io/e-journals.html</loc>
+    <lastmod>2026-05-07T08:30:40.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ukreat.github.io/blog/posts/proefschrift_rjj/index.html</loc>
+    <lastmod>2026-03-31T12:08:29.805Z</lastmod>
   </url>
   <url>
     <loc>https://ukreat.github.io/blog/posts/welkom/index.html</loc>
