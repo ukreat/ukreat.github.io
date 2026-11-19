@@ -84,7 +84,7 @@ Chronic kidney disease is a heterogeneous disease with over 280 different recogn
 :::
 ::::
 
-## Marie Claire
+## MC
 :::: columns
 ::: {.column width="20%"}
 ![](images/headshots/placeholder.png){width=90%}

@@ -75,10 +75,10 @@ title: "Meet the team"
 :::
 
 ::: {.column width="80%"}
-[**Marie Claire Rijken van Olst**]{style="font-size: 120%;"}\
+[**MC Rijken van Olst**]{style="font-size: 120%;"}\
 [*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
 
-[Marie Claire is a medical doctor doing her PhD on the Kidney Failure Risk Equation. She will look into how well it performs in a large regional hospital (Franciscus Gasthuis) and determine its actual impact in routine clinical care.]{style="font-size: 80%;"}
+[MC is a medical doctor doing her PhD on the Kidney Failure Risk Equation. She will look into how well it performs in a large regional hospital (Franciscus Gasthuis) and determine its actual impact in routine clinical care.]{style="font-size: 80%;"}
 :::
 ::::
 
@@ -93,19 +93,6 @@ title: "Meet the team"
 [*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
 
 [Juras is nearing the end of his medical training. To also get a taste of the scientific side of medicine, he is working with us on better quantifying the effectiveness of haemodiafiltration.]{style="font-size: 80%;"}
-:::
-::::
-
-:::: columns
-::: {.column width="20%"}
-![](images/headshots/placeholder.png){width=90%}
-:::
-
-::: {.column width="80%"}
-[**Rabia Mohammed Mohammed Al-Rabea**]{style="font-size: 120%;"}\
-[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 90%;"}
-
-[Rabia is an MD studying Epidemiology at Utrecht University. He is performing his thesis with us on both the clinical and methodological aspects of clustering techniques for acute kidney injury.]{style="font-size: 80%;"}
 :::
 ::::
 
@@ -160,6 +147,18 @@ title: "Meet the team"
 ::::
 
 ### Previous students
+:::: columns
+::: {.column width="15%"}
+![](images/headshots/placeholder.png){width=90%}
+:::
+
+::: {.column width="80%"}
+[**Rabia Mohammed Mohammed Al-Rabea**]{style="font-size: 90%;"}\
+[*ORCID: [*No ORCID*](https://orcid.org/)*]{style="font-size: 80%;"}\
+[Rabia is an MD who studied Epidemiology at Utrecht University. He performed his master thesis with us on both the clinical and methodological aspects of clustering techniques for acute kidney injury.]{style="font-size: 80%;"}
+:::
+::::
+
 :::: columns
 ::: {.column width="15%"}
 ![](images/headshots/sb.jpeg){width=90%}

@@ -9,7 +9,7 @@ This website is maintained by Roemer Janse. Any notes on content can be communic
 :::{style="font-size: 60%;"}
 Disclaimer:
 
-- Attribution for the portrait placeholder image is https://commons.wikimedia.org/wiki/File:Portrait_Placeholder.png.
+- Attribution for the portrait placeholder image is [Clipart Library](https://www.clipart-library.com)
 - Logo's of institutions shown remain property of the respective institution.
 
 :::
