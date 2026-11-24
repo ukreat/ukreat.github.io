@@ -5,7 +5,7 @@ toc: true
 
 We have a number of overarching research lines, within which we perform most of our research. These research lines, spanning the kidney disease continuum and its broader derivatives (e.g. cardio-kidney-metabolic syndrome), intertwine in our work. Additionelly, we frequently work on educational/methods papers.
 
-Details of the roles are given in @sec-roles.
+Details of the roles are given below: @sec-roles.
 \
 \
 
@@ -14,19 +14,6 @@ Acute kidney injury is an impactful disease that may have long-lasting consequen
 
 #### People working on this
 ::::: {.panel-tabset}
-## Rabia
-:::: columns
-::: {.column width="20%"}
-![](images/headshots/placeholder.png){width=90%}
-:::
-
-::: {.column width="80%"}
-
-- Analysis
-
-:::
-::::
-
 ## Roemer
 :::: columns
 ::: {.column width="20%"}
